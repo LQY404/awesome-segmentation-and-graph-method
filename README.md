@@ -4,10 +4,8 @@ This is a repository of the segmentation method and graph method. In the segment
 ------------
 
 - [Instance, Semantic and Panoptic Segmentation](#instance--semantic-and-panoptic-segmentation)
-- [Graph Learning, representation, cluster](#graph-learning--representation--cluster)
+- [Graph Representation and Cluster](#graph-representation-and-cluster)
 - [Referring Segmentation](#referring-segmentation)
-
-------------
 
 
 ## Instance, Semantic and Panoptic Segmentation
@@ -65,7 +63,7 @@ This is a repository of the segmentation method and graph method. In the segment
 ------------
 
 
-## Graph Learning, representation, cluster
+## Graph Representation and Cluster
 |   |   |   |
 | :------------: | :------------: | :------------: |
 | ICME2020 | [S3NET: GRAPH REPRESENTATIONAL NETWORK FOR SKETCH RECOGNITION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102957) | [code](https://github.com/yanglan0225/s3net) |
