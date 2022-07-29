@@ -3,14 +3,6 @@ This is a repository of the segmentation method and graph method. In the segment
 
 ------------
 
-
-
-# Menu
-<!--ts-->
-[TOC]
-<!--te-->
-
-
 ------------
 
 
