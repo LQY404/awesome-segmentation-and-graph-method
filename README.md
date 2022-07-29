@@ -57,7 +57,8 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2022 | [Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/jamycheung/Trans4PASS) |
 | CVPR2022 | [Towards Noiseless Object Contours for Weakly Supervised Semantic](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Noiseless_Object_Contours_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/BraveGroup/SANCE) |
 | CVPR2022 | [L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_L2G_A_Simple_Local-to-Global_Knowledge_Transfer_Framework_for_Weakly_Supervised_CVPR_2022_paper.pdf) | [code](https://github.com/PengtaoJiang/L2G) |
-| CVPR2022 |  |  |
+| CVPR2022| [DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf)| [code](https://github.com/lhoyer/DAFormer)|
+| CVPR2022 | [Stratified Transformer for 3D Point Cloud Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf)| [code](https://github.com/dvlab-research/StratifiedTransformer)|
 
 
 
@@ -78,13 +79,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2020 | [Scan: Learning to classify images without labels](https://arxiv.org/pdf/2005.12320.pdf) | [code](https://github.com/wvangansbeke/Unsupervised-Classification) |
 |  | [Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/pdf/1511.06335.pdf) | [code](https://github.com/piiswrong/dec) |
 | CVPR2022 | [DeepDPM: Deep Clustering With an Unknown Number of Clusters](https://openaccess.thecvf.com/content/CVPR2022/papers/Ronen_DeepDPM_Deep_Clustering_With_an_Unknown_Number_of_Clusters_CVPR_2022_paper.pdf) | [code](https://github.com/BGU-CS-VIL/DeepDPM) |
-| CVPR2022| [DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf)| [code](https://github.com/lhoyer/DAFormer)|
-| CVPR2022 | [Stratified Transformer for 3D Point Cloud Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf)| [code](https://github.com/dvlab-research/StratifiedTransformer)|
 | CVPR2022 | [Lifelong Graph Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Lifelong_Graph_Learning_CVPR_2022_paper.pdf) | [code](https://github.com/wang-chen/LGL) |
-| CVPR2022 |  |  |
-| CVPR2022 |  |  |
-| CVPR2022 |  |  |
-| CVPR2022 |  |  |
 
 
 ------------
@@ -97,9 +92,6 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://arxiv.org/abs/2105.01839) | [code](https://github.com/fengguang94/CEFNet) |
 | CVPR2021 | [CRIS: CLIP-Driven Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CRIS_CLIP-Driven_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/DerrickWang005/CRIS.pytorch) |
 | CVPR2022 | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_LAVT_Language-Aware_Vision_Transformer_for_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/yz93/LAVT-RIS) |
-| CVPR2022 |  |  |
-| CVPR2022 |  |  |
-| CVPR2022 |  |  |
-| CVPR2022 |  |  |
+
 
 
