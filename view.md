@@ -1,5 +1,4 @@
-# awesome-segmentation-graph
-this is a repository of the segmentation method and graph method. In the segmentation part, the instance, sematic, panoptic and referring segmentation are included. In the graph part, the representation learning, clustering and so on methods are included. We will update continue...
+This is a repository of the segmentation method and graph method. In the segmentation part, the instance, sematic, panoptic and referring segmentation are included. In the graph part, the representation learning, clustering and so on methods are included. We will update continue...
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
