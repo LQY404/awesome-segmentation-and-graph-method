@@ -3,7 +3,9 @@ This is a repository of the segmentation method and graph method. In the segment
 
 ------------
 
-TOC{:toc}
+- [Instance, Semantic and Panoptic Segmentation.](#instance--semantic-and-panoptic-segmentation)
+- [Graph Learning (representation, cluster...)](#graph-learning--representation--cluster-)
+- [Referring Segmentation](#referring-segmentation)
 
 ------------
 
