@@ -78,8 +78,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | WACV | [Hyper-Convolution Networks for Biomedical Image Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Ma_Hyper-Convolution_Networks_for_Biomedical_Image_Segmentation_WACV_2022_paper.pdf) | [code](https://github.com/tym002/Hyper-Convolution) |  |
 | WACV | [AuxAdapt: Stable and Efficient Test-Time Adaptation for Temporally Consistent Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Zhang_AuxAdapt_Stable_and_Efficient_Test-Time_Adaptation_for_Temporally_Consistent_Video_WACV_2022_paper.pdf) | None |  |
 | ICCV2021 | [Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chan_Entropy_Maximization_and_Meta_Classification_for_Out-of-Distribution_Detection_in_Semantic_ICCV_2021_paper.pdf) | [code](https://github.com/robin-chan/meta-ood) |  |
-| ICCV2021 | [Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation
-](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf) | []() | inspire |
+| ICCV2021 | [Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf) | None | inspire |
 |  | []() | []() |  |
 |  | []() | []() |  |
 |  | []() | []() |  |
