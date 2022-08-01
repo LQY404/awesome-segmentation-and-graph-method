@@ -78,11 +78,15 @@ This is a repository of the segmentation method and graph method. In the segment
 | WACV | [Hyper-Convolution Networks for Biomedical Image Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Ma_Hyper-Convolution_Networks_for_Biomedical_Image_Segmentation_WACV_2022_paper.pdf) | [code](https://github.com/tym002/Hyper-Convolution) |  |
 | WACV | [AuxAdapt: Stable and Efficient Test-Time Adaptation for Temporally Consistent Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Zhang_AuxAdapt_Stable_and_Efficient_Test-Time_Adaptation_for_Temporally_Consistent_Video_WACV_2022_paper.pdf) | None |  |
 | ICCV2021 | [Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chan_Entropy_Maximization_and_Meta_Classification_for_Out-of-Distribution_Detection_in_Semantic_ICCV_2021_paper.pdf) | [code](https://github.com/robin-chan/meta-ood) |  |
-| ICCV2021 | [Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf) | None | inspire |
-|  | []() | []() |  |
-|  | []() | []() |  |
-|  | []() | []() |  |
-|  | []() | []() |  |
+| ICCV2021 | [Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf) | None | enlightened |
+| CVPR2020 | [Context Prior for Scene Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Context_Prior_for_Scene_Segmentation_CVPR_2020_paper.pdf) | [code](https://git.io/ContextPrior) | enlightened |
+|  | [Deep Transport Network for Unsupervised Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Deep_Transport_Network_for_Unsupervised_Video_Object_Segmentation_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [TempNet: Online Semantic Segmentation on Large-scale Point Cloud Series](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TempNet_Online_Semantic_Segmentation_on_Large-Scale_Point_Cloud_Series_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Kundu_Generalize_Then_Adapt_Source-Free_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://sites.google.com/view/sfdaseg) |  |
+| ICCV2021 | [](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Region-Aware_Contrastive_Learning_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | []() |  |
+| ICCV2021 | [Graph Constrained Data Representation Learning for Human Motion Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Dimiccoli_Graph_Constrained_Data_Representation_Learning_for_Human_Motion_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/mdimiccoli/GCRL-for-HMS/) | enlightened |
+|  | [Motion Segmentation and Tracking using Normalized Cuts ](https://ieeexplore.ieee.org/document/710861) | None | enlightened |
+| ICCV2015 | [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410863](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410863) | []() |  |
 
 
 ------------
