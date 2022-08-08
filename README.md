@@ -105,6 +105,32 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2021 | [Contrastive Learning for Label Efficient Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Contrastive_Learning_for_Label_Efficient_Semantic_Segmentation_ICCV_2021_paper.pdf) | None |  |
 | ICCV2021 | [BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Truong_BiMaL_Bijective_Maximum_Likelihood_Approach_to_Domain_Adaptation_in_Semantic_ICCV_2021_paper.pdf) | [code](https://github.com/uark-cviu/BiMaL) |  |
 | ICCV2021 | [BAPA-Net: Boundary Adaptation and Prototype Alignment for Cross-Domain Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_BAPA-Net_Boundary_Adaptation_and_Prototype_Alignment_for_Cross-Domain_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/manmanjun/BAPA-Net) |  |
+| ICCV2021 | [RECALL: Replay-based Continual Learning in Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/LTTM/RECALL) |  |
+| ICCV2021 | [Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Simpler_Is_Better_Few-Shot_Semantic_Segmentation_With_Classifier_Weight_Transformer_ICCV_2021_paper.pdf) | [code](https://github.com/zhiheLu/CWTfor-FSS) |  |
+| ICCV2021 | [Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation
+](https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf) | [code](https://github.com/KAIST-vilab/OC-CSE) |  |
+| ICCV2021 | [Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Sparse-to-Dense_Feature_Matching_Intra_and_Inter_Domain_Cross-Modal_Learning_in_ICCV_2021_paper.pdf) | [code](https://github.com/leolyj/DsCML) |  |
+| ICCV2021 | [VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_VMNet_Voxel-Mesh_Network_for_Geodesic-Aware_3D_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/hzykent/VMNet) |  |
+| ICCV2021 | [ShapeConv: Shape-aware Convolutional Layer for Indoor RGB-D Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_ShapeConv_Shape-Aware_Convolutional_Layer_for_Indoor_RGB-D_Semantic_Segmentation_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [Seminar Learning for Click-Level Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Seminar_Learning_for_Click-Level_Weakly_Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [Complementary Patch for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Complementary_Patch_for_Weakly_Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation] | [code](https://cvlab.yonsei.ac.kr/projects/JoEm) |  |
+| ICCV2021 | [Deep Metric Learning for Open World Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Cen_Deep_Metric_Learning_for_Open_World_Semantic_Segmentation_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_ReDAL_Region-Based_and_Diversity-Aware_Active_Learning_for_Point_Cloud_Semantic_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [Geometric Unsupervised Domain Adaptation for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Guizilini_Geometric_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/tri-ml/packnet-sfm) |  |
+| ICCV2021 | [Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Spurr_Self-Supervised_3D_Hand_Pose_Estimation_From_Monocular_RGB_via_Contrastive_ICCV_2021_paper.pdf) | [code](https://ait.ethz.ch/projects/2021/PeCLR/) | enlightened |
+| ICCV2021 | [How Shift Equivariance Impacts Metric Learning for Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Rumberger_How_Shift_Equivariance_Impacts_Metric_Learning_for_Instance_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/Kainmueller-Lab/shift_equivariance_unet) | enlightened |
+| ICCV2021 | [Personalized Image Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Personalized_Image_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://mmcheng.net/pss/) |  |
+| ICCV2021 | [Learning Meta-class Memory for Few-Shot Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Meta-Class_Memory_for_Few-Shot_Semantic_Segmentation_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [Hierarchical Aggregation for 3D Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Hierarchical_Aggregation_for_3D_Instance_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/hustvl/HAIS) |  |
+| ICCV2021 | [Perception-Aware Multi-Sensor Fusion for 3D LiDAR Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhuang_Perception-Aware_Multi-Sensor_Fusion_for_3D_LiDAR_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/ICEORY/PMF) |  |
+| ICCV2021 | [Segmenter: Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/rstrudel/segmenter) |  |
+| ICCV2021 | [Multi-Anchor Active Domain Adaptation for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ning_Multi-Anchor_Active_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/munanning/MADA) |  |
+| ICCV2021 | [Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation
+](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhong_Pixel_Contrastive-Consistent_Semi-Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf) | None | enlightened |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 
 ------------
@@ -125,6 +151,12 @@ This is a repository of the segmentation method and graph method. In the segment
 |  | [Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/pdf/1511.06335.pdf) | [code](https://github.com/piiswrong/dec) |  |
 | CVPR2022 | [DeepDPM: Deep Clustering With an Unknown Number of Clusters](https://openaccess.thecvf.com/content/CVPR2022/papers/Ronen_DeepDPM_Deep_Clustering_With_an_Unknown_Number_of_Clusters_CVPR_2022_paper.pdf) | [code](https://github.com/BGU-CS-VIL/DeepDPM) |  |
 | CVPR2022 | [Lifelong Graph Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Lifelong_Graph_Learning_CVPR_2022_paper.pdf) | [code](https://github.com/wang-chen/LGL) |  |
+| ICCV2021 | [Clustering by Maximizing Mutual Information Across Views](https://openaccess.thecvf.com/content/ICCV2021/papers/Do_Clustering_by_Maximizing_Mutual_Information_Across_Views_ICCV_2021_paper.pdf) | None |  |
+| ICCV2021 | [Region Similarity Representation Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Region_Similarity_Representation_Learning_ICCV_2021_paper.pdf) | [code](https://github.com/Tete-Xiao/ReSim) |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 
 ------------
@@ -137,6 +169,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://arxiv.org/abs/2105.01839) | [code](https://github.com/fengguang94/CEFNet) |  |
 | CVPR2021 | [CRIS: CLIP-Driven Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CRIS_CLIP-Driven_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/DerrickWang005/CRIS.pytorch) |  |
 | CVPR2022 | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_LAVT_Language-Aware_Vision_Transformer_for_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/yz93/LAVT-RIS) |  |
+| ICCV2021 | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Vision-Language_Transformer_and_Query_Generation_for_Referring_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/henghuiding/VisionLanguage-Transformer) |  |
 
 
 
