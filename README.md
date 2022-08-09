@@ -126,7 +126,11 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2021 | [Segmenter: Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/rstrudel/segmenter) |  |
 | ICCV2021 | [Multi-Anchor Active Domain Adaptation for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ning_Multi-Anchor_Active_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/munanning/MADA) |  |
 | ICCV2021 | [Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhong_Pixel_Contrastive-Consistent_Semi-Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf) | None | enlightened |
-|  |  |  |  |
+| ICCV2021 | [Panoptic Narrative Grounding](https://openaccess.thecvf.com/content/ICCV2021/papers/Gonzalez_Panoptic_Narrative_Grounding_ICCV_2021_paper.pdf) | [code](https://github.com/BCV-Uniandes/PNG) | new task |
+| ICCV2021 | [Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals](https://openaccess.thecvf.com/content/ICCV2021/papers/Van_Gansbeke_Unsupervised_Semantic_Segmentation_by_Contrasting_Object_Mask_Proposals_ICCV_2021_paper.pdf) | [code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation.git) | enlightened |
+| ICCV2021 | [Rank & Sort Loss for Object Detection and Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Oksuz_Rank__Sort_Loss_for_Object_Detection_and_Instance_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/kemaloksuz/RankSortLoss) |  |
+| ICCV2021 | [ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_ISNet_Integrate_Image-Level_and_Semantic-Level_Context_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/SegmentationBLWX/sssegmentation) |  |
+| ICCV2021 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -145,12 +149,13 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICML2020 | [Mini-cut: Spectral Clustering with Graph Neural Networks for Graph Pooling](https://arxiv.org/pdf/1907.00481.pdf) | [code](https://graphneural.network/layers/pooling/#mincutpool) or [code](https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/nn/dense/mincut_pool.py)|  |
 | KDD2019 | [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/pdf/1905.07953.pdf) | [code](https://github.com/benedekrozemberczki/ClusterGCN) |  |
 | ICCV2021 | [Graph Contrastive Clustering](https://arxiv.org/pdf/2104.01429.pdf) | [code](https://github.com/mynameischaos/GCC) |  |
-| ECCV2020 | [Scan: Learning to classify images without labels](https://arxiv.org/pdf/2005.12320.pdf) | [code](https://github.com/wvangansbeke/Unsupervised-Classification) |  |
+| ECCV2020 | [Scan: Learning to classify images without labels](https://arxiv.org/pdf/2005.12320.pdf) | [code](https://github.com/wvangansbeke/Unsupervised-Classification) | enlightened |
 |  | [Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/pdf/1511.06335.pdf) | [code](https://github.com/piiswrong/dec) |  |
 | CVPR2022 | [DeepDPM: Deep Clustering With an Unknown Number of Clusters](https://openaccess.thecvf.com/content/CVPR2022/papers/Ronen_DeepDPM_Deep_Clustering_With_an_Unknown_Number_of_Clusters_CVPR_2022_paper.pdf) | [code](https://github.com/BGU-CS-VIL/DeepDPM) |  |
 | CVPR2022 | [Lifelong Graph Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Lifelong_Graph_Learning_CVPR_2022_paper.pdf) | [code](https://github.com/wang-chen/LGL) |  |
 | ICCV2021 | [Clustering by Maximizing Mutual Information Across Views](https://openaccess.thecvf.com/content/ICCV2021/papers/Do_Clustering_by_Maximizing_Mutual_Information_Across_Views_ICCV_2021_paper.pdf) | None |  |
 | ICCV2021 | [Region Similarity Representation Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Region_Similarity_Representation_Learning_ICCV_2021_paper.pdf) | [code](https://github.com/Tete-Xiao/ReSim) |  |
+| ICCV2021 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
