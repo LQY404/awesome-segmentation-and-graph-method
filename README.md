@@ -130,8 +130,12 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2021 | [Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals](https://openaccess.thecvf.com/content/ICCV2021/papers/Van_Gansbeke_Unsupervised_Semantic_Segmentation_by_Contrasting_Object_Mask_Proposals_ICCV_2021_paper.pdf) | [code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation.git) | enlightened |
 | ICCV2021 | [Rank & Sort Loss for Object Detection and Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Oksuz_Rank__Sort_Loss_for_Object_Detection_and_Instance_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/kemaloksuz/RankSortLoss) |  |
 | ICCV2021 | [ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_ISNet_Integrate_Image-Level_and_Semantic-Level_Context_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/SegmentationBLWX/sssegmentation) |  |
-| ICCV2021 |  |  |  |
-|  |  |  |  |
+| CVPR2021 |  |  |  |
+| CVPR2021 |  |  |  |
+| CVPR2021 |  |  |  |
+| CVPR2021 |  |  |  |
+| CVPR2021 |  |  |  |
+| CVPR2021 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -173,6 +177,6 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [CRIS: CLIP-Driven Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CRIS_CLIP-Driven_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/DerrickWang005/CRIS.pytorch) |  |
 | CVPR2022 | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_LAVT_Language-Aware_Vision_Transformer_for_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/yz93/LAVT-RIS) |  |
 | ICCV2021 | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Vision-Language_Transformer_and_Query_Generation_for_Referring_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/henghuiding/VisionLanguage-Transformer) |  |
-
+| CVPR2021 | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | None |  |
 
 
