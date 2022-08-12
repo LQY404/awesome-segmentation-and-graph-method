@@ -144,9 +144,17 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_BBAM_Bounding_Box_Attribution_Map_for_Weakly_Supervised_Semantic_and_CVPR_2021_paper.pdf) | [code](https://github.com/jbeomlee93/BBAM) |  |
 | CVPR2021 | [HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Nirkin_HyperSeg_Patch-Wise_Hypernetwork_for_Real-Time_Semantic_Segmentation_CVPR_2021_paper.pdf) | [code](https://nirkin.com/hyperseg) |  |
 | CVPR2021 | [Point Cloud Instance Segmentation using Probabilistic Embeddings](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Point_Cloud_Instance_Segmentation_Using_Probabilistic_Embeddings_CVPR_2021_paper.pdf) | None | enlightened |
+| CVPR2021 | [FAPIS: A Few-shot Anchor-free Part-based Instance Segmenter
+](https://openaccess.thecvf.com/content/CVPR2021/papers/Nguyen_FAPIS_A_Few-Shot_Anchor-Free_Part-Based_Instance_Segmenter_CVPR_2021_paper.pdf) | [code](https://github.com/ducminhkhoi/FAPIS) |  |
+| CVPR2021 | [Background-Aware Pooling and Noise-Aware Loss for Weakly-SupervisedSemantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Oh_Background-Aware_Pooling_and_Noise-Aware_Loss_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf) | [code](https://cvlab.yonsei.ac.kr/projects/BANA) |  |
+| CVPR2021 | [Hierarchical Lovasz Embeddings for Proposal-free Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Kerola_Hierarchical_Lovasz_Embeddings_for_Proposal-Free_Panoptic_Segmentation_CVPR_2021_paper.pdf) | None | enlightened |
+| CVPR2021 | [Learning to Associate Every Segment for Video Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Woo_Learning_To_Associate_Every_Segment_for_Video_Panoptic_Segmentation_CVPR_2021_paper.pdf) | None |  |
+| CVPR2021 | [Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds](https://openaccess.thecvf.com/content/CVPR2021/papers/Yi_Complete__Label_A_Domain_Adaptation_Approach_to_Semantic_Segmentation_CVPR_2021_paper.pdf) | None |  |
+| CVPR2021 | [Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/xinge008/Cylinder3D) |  |
+| CVPR2021 | [DCT-Mask: Discrete Cosine Transform Mask Representation for Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_DCT-Mask_Discrete_Cosine_Transform_Mask_Representation_for_Instance_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/aliyun/DCT-Mask) |  |
+| CVPR2021 | [Deeply Shape-guided Cascade for Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_Deeply_Shape-Guided_Cascade_for_Instance_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/hding2455/DSC) |  |
+| CVPR2021 | [Part-aware Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/de_Geus_Part-Aware_Panoptic_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/tue-mps/panoptic_parts) | new task |
 | CVPR2021 |  |  |  |
-| CVPR2021 |  |  |  |
-|  |  |  |  |
 
 ------------
 
@@ -168,8 +176,8 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2022 | [Lifelong Graph Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Lifelong_Graph_Learning_CVPR_2022_paper.pdf) | [code](https://github.com/wang-chen/LGL) |  |
 | ICCV2021 | [Clustering by Maximizing Mutual Information Across Views](https://openaccess.thecvf.com/content/ICCV2021/papers/Do_Clustering_by_Maximizing_Mutual_Information_Across_Views_ICCV_2021_paper.pdf) | None |  |
 | ICCV2021 | [Region Similarity Representation Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Region_Similarity_Representation_Learning_ICCV_2021_paper.pdf) | [code](https://github.com/Tete-Xiao/ReSim) |  |
-| ICCV2021 |  |  |  |
-|  |  |  |  |
+| AAAI2022 | [Deep Graph Clustering via Dual Correlation Reduction](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf) | [code](https://github.com/yueliu1999/DCRN) |  |
+| AAAI2021 | [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf) | [code](https://github.com/Yunfan-Li/Contrastive-Clustering) | enlightened |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
