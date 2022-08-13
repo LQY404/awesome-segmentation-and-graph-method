@@ -153,6 +153,18 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [DCT-Mask: Discrete Cosine Transform Mask Representation for Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_DCT-Mask_Discrete_Cosine_Transform_Mask_Representation_for_Instance_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/aliyun/DCT-Mask) |  |
 | CVPR2021 | [Deeply Shape-guided Cascade for Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_Deeply_Shape-Guided_Cascade_for_Instance_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/hding2455/DSC) |  |
 | CVPR2021 | [Part-aware Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/de_Geus_Part-Aware_Panoptic_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/tue-mps/panoptic_parts) | new task |
+| CVPR2021 | [ColorRL: Reinforced Coloring for End-to-End Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Tuan_ColorRL_Reinforced_Coloring_for_End-to-End_Instance_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/anhtuanhsgs/ColorRL) | novelty, enlightened |
+| CVPR2021 | [MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_MaX-DeepLab_End-to-End_Panoptic_Segmentation_With_Mask_Transformers_CVPR_2021_paper.pdf) | [code](https://github.com/conradry/max-deeplab) | enlightened |
+| CVPR2021 | [Fully Convolutional Networks for Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Fully_Convolutional_Networks_for_Panoptic_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/Jia-Research-Lab/PanopticFCN) |  |
+| CVPR2021 | [(AF)2-S3Net: Attentive Feature Fusion with Adaptive Feature Selection for Sparse Semantic Segmentation Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_AF2-S3Net_Attentive_Feature_Fusion_With_Adaptive_Feature_Selection_for_Sparse_CVPR_2021_paper.pdf) | None |  |
+| CVPR2021 | [PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering](https://openaccess.thecvf.com/content/CVPR2021/papers/Cho_PiCIE_Unsupervised_Semantic_Segmentation_Using_Invariance_and_Equivariance_in_Clustering_CVPR_2021_paper.pdf) | [code](https://github.com/janghyuncho/PiCIE) | enlightened |
+| CVPR2021 | [Learning Dynamic Routing for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Learning_Dynamic_Routing_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | [code](https://github.com/yanwei-li/DynamicRouting) |  |
+| CVPR2021 | [PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.pdf) | None |  |
+| CVPR2021 | [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_PolarNet_An_Improved_Grid_Representation_for_Online_LiDAR_Point_Clouds_CVPR_2020_paper.pdf) | [code](https://github.com/edwardzhou130/PolarSeg) |  |
+| CVPR2021 | [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Spatial_Pyramid_Based_Graph_Reasoning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | nONE |  |
+| CVPR2021 | [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Bidirectional_Graph_Reasoning_Network_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) | None |  |
+| CVPR2021 |  |  |  |
+| CVPR2021 |  |  |  |
 | CVPR2021 |  |  |  |
 
 ------------
@@ -177,7 +189,10 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2021 | [Region Similarity Representation Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Region_Similarity_Representation_Learning_ICCV_2021_paper.pdf) | [code](https://github.com/Tete-Xiao/ReSim) |  |
 | AAAI2022 | [Deep Graph Clustering via Dual Correlation Reduction](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf) | [code](https://github.com/yueliu1999/DCRN) |  |
 | AAAI2021 | [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf) | [code](https://github.com/Yunfan-Li/Contrastive-Clustering) | enlightened |
-|  |  |  |  |
+| CVPR2021 | [Nearest Neighbor Matching for Deep Clustering](https://openaccess.thecvf.com/content/CVPR2021/papers/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.pdf) | [code](https://github.com/ZhiyuanDang/NNM) | enlightened |
+| CVPR2020 | [Deep Semantic Clustering by Partition Confidence Maximisation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clustering_by_Partition_Confidence_Maximisation_CVPR_2020_paper.pdf) | [code](https://github.com/Raymond-sci/PICA) | enlightened |
+| CVPR2021 | [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.pdf) | None |  |
+| CVPR2021 | [Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Distribution-Induced_Bidirectional_Generative_Adversarial_Network_for_Graph_Representation_Learning_CVPR_2020_paper.pdf) | [code](https://github.com/SsGood/) |  |
 |  |  |  |  |
 |  |  |  |  |
 
