@@ -163,9 +163,13 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_PolarNet_An_Improved_Grid_Representation_for_Online_LiDAR_Point_Clouds_CVPR_2020_paper.pdf) | [code](https://github.com/edwardzhou130/PolarSeg) |  |
 | CVPR2021 | [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Spatial_Pyramid_Based_Graph_Reasoning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | nONE |  |
 | CVPR2021 | [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Bidirectional_Graph_Reasoning_Network_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) | None |  |
-| CVPR2021 |  |  |  |
-| CVPR2021 |  |  |  |
-| CVPR2021 |  |  |  |
+| AAAI2022 | [Learning to Model Pixel-Embedded Affinity for Homogeneous Instance Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/19984) | [code](https://github.com/weih527/) |  |
+| AAAI2022 | [Multi-Knowledge Aggregation and Transfer for Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20077) | None |  |
+| AAAI2022 | [Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20085) | None |  |
+| AAAI2022 | [Unsupervised Representation for Semantic Segmentation by Implicit Cycle-Attention Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20100) | None |  |
+| AAAI2022 | [CPRAL: Collaborative Panoptic-Regional Active Learning for Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20107) | None |  |
+| AAAI2022 |  |  |  |
+| AAAI2022 |  |  |  |
 
 ------------
 
@@ -193,8 +197,11 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2020 | [Deep Semantic Clustering by Partition Confidence Maximisation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clustering_by_Partition_Confidence_Maximisation_CVPR_2020_paper.pdf) | [code](https://github.com/Raymond-sci/PICA) | enlightened |
 | CVPR2021 | [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.pdf) | None |  |
 | CVPR2021 | [Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Distribution-Induced_Bidirectional_Generative_Adversarial_Network_for_Graph_Representation_Learning_CVPR_2020_paper.pdf) | [code](https://github.com/SsGood/) |  |
-|  |  |  |  |
-|  |  |  |  |
+| AAAI2022 | [GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/20377) | None |  |
+| AAAI2022 | [Structure-Aware Transformer for Graph Representation Learning](https://proceedings.mlr.press/v162/chen22r/chen22r.pdf) | [code](https://github.com/BorgwardtLab/SAT) |  |
+| AAAI2022 |  |  |  |
+| AAAI2022 |  |  |  |
+| AAAI2022 |  |  |  |
 
 
 ------------
