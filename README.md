@@ -161,15 +161,21 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [Learning Dynamic Routing for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Learning_Dynamic_Routing_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | [code](https://github.com/yanwei-li/DynamicRouting) |  |
 | CVPR2021 | [PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.pdf) | None |  |
 | CVPR2021 | [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_PolarNet_An_Improved_Grid_Representation_for_Online_LiDAR_Point_Clouds_CVPR_2020_paper.pdf) | [code](https://github.com/edwardzhou130/PolarSeg) |  |
-| CVPR2021 | [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Spatial_Pyramid_Based_Graph_Reasoning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | nONE |  |
-| CVPR2021 | [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Bidirectional_Graph_Reasoning_Network_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) | None |  |
 | AAAI2022 | [Learning to Model Pixel-Embedded Affinity for Homogeneous Instance Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/19984) | [code](https://github.com/weih527/) |  |
 | AAAI2022 | [Multi-Knowledge Aggregation and Transfer for Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20077) | None |  |
 | AAAI2022 | [Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20085) | None |  |
 | AAAI2022 | [Unsupervised Representation for Semantic Segmentation by Implicit Cycle-Attention Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20100) | None |  |
 | AAAI2022 | [CPRAL: Collaborative Panoptic-Regional Active Learning for Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20107) | None |  |
-| AAAI2022 |  |  |  |
-| AAAI2022 |  |  |  |
+| CVPR2020 | [BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BlendMask_Top-Down_Meets_Bottom-Up_for_Instance_Segmentation_CVPR_2020_paper.pdf) | [code](https://github.com/aim-uofa/AdelaiDet) |  |
+| CVPR2020 | [Pixel Consensus Voting for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Pixel_Consensus_Voting_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) | [code](https://github.com/w-hc/pcv) | enlightened |
+| CVPR2020 | [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Engelmann_3D-MPA_Multi-Proposal_Aggregation_for_3D_Semantic_Instance_Segmentation_CVPR_2020_paper.pdf) | None |  |
+| CVPR2020 | [PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_PointGroup_Dual-Set_Point_Grouping_for_3D_Instance_Segmentation_CVPR_2020_paper.pdf) | None |  |
+| CVPR2020 | [Real-Time Panoptic Segmentation from Dense Detections](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Real-Time_Panoptic_Segmentation_From_Dense_Detections_CVPR_2020_paper.pdf) | None |  |
+| CVPR2020 | [Affinity Graph Supervision for Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Affinity_Graph_Supervision_for_Visual_Recognition_CVPR_2020_paper.pdf) | None |  |
+| CVPR2020 | [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Spatial_Pyramid_Based_Graph_Reasoning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | None |  |
+| CVPR2020 | [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Bidirectional_Graph_Reasoning_Network_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) |  |  |
+| CVPR2020 |  |  |  |
+| CVPR2020 |  |  |  |
 
 ------------
 
@@ -199,7 +205,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Distribution-Induced_Bidirectional_Generative_Adversarial_Network_for_Graph_Representation_Learning_CVPR_2020_paper.pdf) | [code](https://github.com/SsGood/) |  |
 | AAAI2022 | [GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/20377) | None |  |
 | AAAI2022 | [Structure-Aware Transformer for Graph Representation Learning](https://proceedings.mlr.press/v162/chen22r/chen22r.pdf) | [code](https://github.com/BorgwardtLab/SAT) |  |
-| AAAI2022 |  |  |  |
+| CVPR2020 | [Large Scale Video Representation Learning via Relational Graph Clustering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Large_Scale_Video_Representation_Learning_via_Relational_Graph_Clustering_CVPR_2020_paper.pdf) | None |  |
 | AAAI2022 |  |  |  |
 | AAAI2022 |  |  |  |
 
