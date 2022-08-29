@@ -174,8 +174,13 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2020 | [Affinity Graph Supervision for Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Affinity_Graph_Supervision_for_Visual_Recognition_CVPR_2020_paper.pdf) | None |  |
 | CVPR2020 | [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Spatial_Pyramid_Based_Graph_Reasoning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | None |  |
 | CVPR2020 | [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Bidirectional_Graph_Reasoning_Network_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) |  |  |
-| CVPR2020 |  |  |  |
-| CVPR2020 |  |  |  |
+| ECCV2022 | [OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers](https://arxiv.org/pdf/2207.02255.pdf) | [code](https://github.com/PJLallen/OSFormer) |  |
+| ECCV2022 | [PseudoClick: Interactive Image Segmentation with Click Imitation](https://arxiv.org/pdf/2207.05282.pdf) | None | enlightened |
+| ECCV2022 | [Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/pdf/2207.08455.pdf) |  | enlightened |
+| ICLR2022 | [LABEL-EFFICIENT SEMANTIC SEGMENTATION WITH DIFFUSION MODELS](https://arxiv.org/pdf/2112.03126.pdf) | [code](https://github.com/yandex-research/ddpm-segmentation) | diffusion model |
+| arxiv | [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/pdf/2206.09012.pdf) | [code](https://github.com/AlexGraikos/diffusion_priors) |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
 
 ------------
 
