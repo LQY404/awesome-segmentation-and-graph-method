@@ -213,6 +213,10 @@ This is a repository of the segmentation method and graph method. In the segment
 | AAAI2022 | [Structure-Aware Transformer for Graph Representation Learning](https://proceedings.mlr.press/v162/chen22r/chen22r.pdf) | [code](https://github.com/BorgwardtLab/SAT) |  |
 | CVPR2020 | [Large Scale Video Representation Learning via Relational Graph Clustering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Large_Scale_Video_Representation_Learning_via_Relational_Graph_Clustering_CVPR_2020_paper.pdf) | None |  |
 | ECCV2018 | [Universal Sketch Perceptual Grouping](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.pdf) | [code](https://github.com/KeLi-SketchX/Universal-sketch-perceptual-grouping) | enlightened |
+| WACV2020 | [MaskPlus: Improving Mask Generation for Instance Segmentation](https://openaccess.thecvf.com/content_WACV_2020/papers/Xu_MaskPlus_Improving_Mask_Generation_for_Instance_Segmentation_WACV_2020_paper.pdf) | None |  |
+| AAAI2022 |  |  |  |
+| AAAI2022 |  |  |  |
+| AAAI2022 |  |  |  |
 | AAAI2022 |  |  |  |
 
 
