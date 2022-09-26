@@ -12,9 +12,9 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
-| CVPR2022  | [Deep Hierarchical Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Deep_Hierarchical_Semantic_Segmentation_CVPR_2022_paper.pdf)  | [code](https://github.com/0liliulei/HieraSeg) |  |
+| CVPR2022  | [Deep Hierarchical Semantic Segmentation](https://arxiv.org/abs/2203.14335)  | [code](https://github.com/0liliulei/HieraSeg) |  |
 | CVPR2022  | [Rethinking Semantic Segmentation: A Prototype View](https://arxiv.org/abs/2203.15102) | [code](https://github.com/tfzhou/ProtoSeg)  |  |
-| CVPR2022  | [Sparse Instance Activation for Real-Time Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Sparse_Instance_Activation_for_Real-Time_Instance_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/hustvl/SparseInst) |  |
+| CVPR2022  | [Sparse Instance Activation for Real-Time Instance Segmentation](https://arxiv.org/abs/2203.12827) | [code](https://github.com/hustvl/SparseInst) |  |
 | CVPR2022 | [Instance Segmentation with Mask-supervised Polygonal Boundary Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.pdf) | [code](https://github.com/mlpc-ucsd/BoundaryFormer) |  |
 | CVPR2022 | [CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_CMT-DeepLab_Clustering_Mask_Transformers_for_Panoptic_Segmentation_CVPR_2022_paper.pdf) | None |  |
 | CVPR2022 | [Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.pdf) | None |  |
@@ -180,8 +180,13 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/pdf/2207.08455.pdf) |  | enlightened |
 | ICLR2022 | [LABEL-EFFICIENT SEMANTIC SEGMENTATION WITH DIFFUSION MODELS](https://arxiv.org/pdf/2112.03126.pdf) | [code](https://github.com/yandex-research/ddpm-segmentation) | diffusion model |
 | arxiv | [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/pdf/2206.09012.pdf) | [code](https://github.com/AlexGraikos/diffusion_priors) |  |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
+| WACV2020 | [Distributed Iterative Gating Networks for Semantic Segmentation](https://arxiv.org/abs/1909.12996) |  |  |
+| WACV2020 | [Multi Receptive Field Network for Semantic Segmentation](https://arxiv.org/abs/2011.08577) | None |  |
+| WACV2020 |  |  |  |
+| WACV2020 |  |  |  |
+| WACV2020 |  |  |  |
+| WACV2020 |  |  |  |
+| WACV2020 |  |  |  |
 
 ------------
 
@@ -214,10 +219,10 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2020 | [Large Scale Video Representation Learning via Relational Graph Clustering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Large_Scale_Video_Representation_Learning_via_Relational_Graph_Clustering_CVPR_2020_paper.pdf) | None |  |
 | ECCV2018 | [Universal Sketch Perceptual Grouping](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.pdf) | [code](https://github.com/KeLi-SketchX/Universal-sketch-perceptual-grouping) | enlightened |
 | WACV2020 | [MaskPlus: Improving Mask Generation for Instance Segmentation](https://openaccess.thecvf.com/content_WACV_2020/papers/Xu_MaskPlus_Improving_Mask_Generation_for_Instance_Segmentation_WACV_2020_paper.pdf) | None |  |
-| AAAI2022 |  |  |  |
-| AAAI2022 |  |  |  |
-| AAAI2022 |  |  |  |
-| AAAI2022 |  |  |  |
+| WACV2020 | [GAR: Graph Assisted Reasoning for Object Detection](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_GAR_Graph_Assisted_Reasoning_for_Object_Detection_WACV_2020_paper.pdf) | None |  |
+| WACV2020 | [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200) | [code](https://github.com/shikorab/DSG) | enlighten |
+| WACV2020 |  |  |  |
+| WACV2020 |  |  |  |
 
 
 ------------
@@ -232,6 +237,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2022 | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_LAVT_Language-Aware_Vision_Transformer_for_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/yz93/LAVT-RIS) |  |
 | ICCV2021 | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Vision-Language_Transformer_and_Query_Generation_for_Referring_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/henghuiding/VisionLanguage-Transformer) |  |
 | CVPR2021 | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | None |  |
-| CVPR2021 | [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/incredibleXM/BUSNet) |
+| CVPR2021 | [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/incredibleXM/BUSNet) |  |
+| WACV2020 | [Leveraging Pretrained Image Classifiers for Language-Based Segmentation](https://arxiv.org/abs/1911.00830) | [code](https://sites.google.com/stanford.edu/cls-seg) |  | 
 
 
