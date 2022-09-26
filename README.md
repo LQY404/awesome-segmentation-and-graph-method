@@ -182,7 +182,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | arxiv | [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/pdf/2206.09012.pdf) | [code](https://github.com/AlexGraikos/diffusion_priors) |  |
 | WACV2020 | [Distributed Iterative Gating Networks for Semantic Segmentation](https://arxiv.org/abs/1909.12996) |  |  |
 | WACV2020 | [Multi Receptive Field Network for Semantic Segmentation](https://arxiv.org/abs/2011.08577) | None |  |
-| WACV2020 |  |  |  |
+| WACV2020 | [MaskPlus: Improving Mask Generation for Instance Segmentation](https://arxiv.org/abs/1907.06713) | None |  |
 | WACV2020 |  |  |  |
 | WACV2020 |  |  |  |
 | WACV2020 |  |  |  |
@@ -221,7 +221,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | WACV2020 | [MaskPlus: Improving Mask Generation for Instance Segmentation](https://openaccess.thecvf.com/content_WACV_2020/papers/Xu_MaskPlus_Improving_Mask_Generation_for_Instance_Segmentation_WACV_2020_paper.pdf) | None |  |
 | WACV2020 | [GAR: Graph Assisted Reasoning for Object Detection](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_GAR_Graph_Assisted_Reasoning_for_Object_Detection_WACV_2020_paper.pdf) | None |  |
 | WACV2020 | [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200) | [code](https://github.com/shikorab/DSG) | enlighten |
-| WACV2020 |  |  |  |
+| WACV2020 | [Multi-Level Representation Learning for Deep Subspace Clustering](https://arxiv.org/abs/2001.08533) | None |  |
 | WACV2020 |  |  |  |
 
 
