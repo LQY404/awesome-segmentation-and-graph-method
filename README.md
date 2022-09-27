@@ -183,10 +183,17 @@ This is a repository of the segmentation method and graph method. In the segment
 | WACV2020 | [Distributed Iterative Gating Networks for Semantic Segmentation](https://arxiv.org/abs/1909.12996) |  |  |
 | WACV2020 | [Multi Receptive Field Network for Semantic Segmentation](https://arxiv.org/abs/2011.08577) | None |  |
 | WACV2020 | [MaskPlus: Improving Mask Generation for Instance Segmentation](https://arxiv.org/abs/1907.06713) | None |  |
-| WACV2020 |  |  |  |
-| WACV2020 |  |  |  |
-| WACV2020 |  |  |  |
-| WACV2020 |  |  |  |
+| WACV2020 | [Efficient Video Semantic Segmentation with Labels Propagation and Refinement](https://arxiv.org/abs/1912.11844) | None |  |
+| WACV2020 | [Global Context Reasoning for Semantic Segmentation of 3D Point Clouds](https://openaccess.thecvf.com/content_WACV_2020/papers/Ma_Global_Context_Reasoning_for_Semantic_Segmentation_of_3D_Point_Clouds_WACV_2020_paper.pdf) | None |  |
+| ICCV2019 | [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678) | [code](https://github.com/MendelXu/ANN.git) |  |
+| ICCV2019 | [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721) | [code](https://github.com/speedinghzl/CCNet) |  |
+| ICCV2019 | [SSAP: Single-Shot Instance Segmentation With Affinity Pyramid](https://arxiv.org/abs/1909.01616) | [code](https://github.com/yanziwei/ssap) | enlightened |
+| ICCV2019 | [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/abs/1904.06268) | None |  |
+| ICCV2019 |  |  |  |
+| ICCV2019 |  |  |  |
+| ICCV2019 |  |  |  |
+| ICCV2019 |  |  |  |
+
 
 ------------
 
@@ -222,7 +229,10 @@ This is a repository of the segmentation method and graph method. In the segment
 | WACV2020 | [GAR: Graph Assisted Reasoning for Object Detection](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_GAR_Graph_Assisted_Reasoning_for_Object_Detection_WACV_2020_paper.pdf) | None |  |
 | WACV2020 | [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200) | [code](https://github.com/shikorab/DSG) | enlighten |
 | WACV2020 | [Multi-Level Representation Learning for Deep Subspace Clustering](https://arxiv.org/abs/2001.08533) | None |  |
-| WACV2020 |  |  |  |
+| ICCV2019 | [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://arxiv.org/abs/1908.07325) | [code](https://github.com/HCPLab-SYSU/SSGRL) |  |
+| ICCV2019 |  |  |  |
+| ICCV2019 |  |  |  |
+
 
 
 ------------
@@ -239,5 +249,6 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | None |  |
 | CVPR2021 | [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/incredibleXM/BUSNet) |  |
 | WACV2020 | [Leveraging Pretrained Image Classifiers for Language-Based Segmentation](https://arxiv.org/abs/1911.00830) | [code](https://sites.google.com/stanford.edu/cls-seg) |  | 
+| ICCV2019 | [Adaptive Reconstruction Network for Weakly Supervised Referring Expression Grounding](https://arxiv.org/abs/1908.10568) | [code](https://github.com/GingL/ARN) |  |
 
 
