@@ -192,10 +192,15 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 | [Dynamic Multi-scale Filters for Semantic Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Dynamic_Multi-Scale_Filters_for_Semantic_Segmentation_ICCV_2019_paper.pdf) | [code](https://github.com/Junjun2016/DMNet) | draw pic |
 | ICCV2019 | [Towards Bridging Semantic Gap to Improve Semantic Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pang_Towards_Bridging_Semantic_Gap_to_Improve_Semantic_Segmentation_ICCV_2019_paper.pdf) | None |  |
 | ICCV2019 | [Feature Weighting and Boosting for Few-Shot Segmentation](https://arxiv.org/abs/1909.13140) | None |  |
-| ICCV2019 |  |  |  |
-| ICCV2019 |  |  |  |
-| ICCV2019 |  |  |  |
-| ICCV2019 |  |  |  |
+| ICCV2019 | [Explicit Shape Encoding for Real-Time Instance Segmentation](https://arxiv.org/abs/1908.04067) | [code](https://github.com/WenqiangX/ese_seg) |  |
+| ICCV2019 | [IMP: Instance Mask Projection for High Accuracy Semantic Segmentation of Things](https://arxiv.org/abs/1906.06597) | None |  |
+| ICCV2019 | [Video Instance Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Video_Instance_Segmentation_ICCV_2019_paper.pdf) |  |  |
+| ICCV2019 | [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740) | None |  |
+| ICCV2019 | [Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/1911.01370) | None |  |
+| ICCV2019 | [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1811.10323) | None |  |
+| ICCV2019 | [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408) | [code](https://github.com/zrl4836/ACFNet) |  |
+| ICCV2019 | [YOLACT Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689) | [code](https://github.com/dbolya/yolact) |  |
+  | ICCV2019 | [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/2006.09214) | [code](tinyurl.com/FCOSv1) |  |
 
 
 ------------
@@ -257,5 +262,10 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 | [Dynamic Graph Attention for Referring Expression Comprehension](https://arxiv.org/abs/1909.08164) | None |  |
 | ICCV2019 | [Learning to Assemble Neural Module Tree Networks for Visual Grounding](https://arxiv.org/abs/1812.03299) | None |  |
 | ICCV2019 | [A Fast and Accurate One-Stage Approach to Visual Grounding](https://arxiv.org/abs/1908.06354) | [code](https://github.com/zyang-ur/onestage_grounding) |  |
+| ICCV2019 | [See-Through-Text Grouping for Referring Image Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_See-Through-Text_Grouping_for_Referring_Image_Segmentation_ICCV_2019_paper.pdf) | None |  |
+
+
+
+
 
 
