@@ -189,6 +189,9 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 | [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721) | [code](https://github.com/speedinghzl/CCNet) |  |
 | ICCV2019 | [SSAP: Single-Shot Instance Segmentation With Affinity Pyramid](https://arxiv.org/abs/1909.01616) | [code](https://github.com/yanziwei/ssap) | enlightened |
 | ICCV2019 | [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/abs/1904.06268) | None |  |
+| ICCV2019 | [Dynamic Multi-scale Filters for Semantic Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Dynamic_Multi-Scale_Filters_for_Semantic_Segmentation_ICCV_2019_paper.pdf) | [code](https://github.com/Junjun2016/DMNet) | draw pic |
+| ICCV2019 | [Towards Bridging Semantic Gap to Improve Semantic Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pang_Towards_Bridging_Semantic_Gap_to_Improve_Semantic_Segmentation_ICCV_2019_paper.pdf) | None |  |
+| ICCV2019 | [Feature Weighting and Boosting for Few-Shot Segmentation](https://arxiv.org/abs/1909.13140) | None |  |
 | ICCV2019 |  |  |  |
 | ICCV2019 |  |  |  |
 | ICCV2019 |  |  |  |
@@ -250,5 +253,9 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/incredibleXM/BUSNet) |  |
 | WACV2020 | [Leveraging Pretrained Image Classifiers for Language-Based Segmentation](https://arxiv.org/abs/1911.00830) | [code](https://sites.google.com/stanford.edu/cls-seg) |  | 
 | ICCV2019 | [Adaptive Reconstruction Network for Weakly Supervised Referring Expression Grounding](https://arxiv.org/abs/1908.10568) | [code](https://github.com/GingL/ARN) |  |
+| ICCV2019 | [G3RAPHGROUND: Graph-based Language Grounding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bajaj_G3raphGround_Graph-Based_Language_Grounding_ICCV_2019_paper.pdf) | None |  |
+| ICCV2019 | [Dynamic Graph Attention for Referring Expression Comprehension](https://arxiv.org/abs/1909.08164) | None |  |
+| ICCV2019 | [Learning to Assemble Neural Module Tree Networks for Visual Grounding](https://arxiv.org/abs/1812.03299) | None |  |
+| ICCV2019 | [A Fast and Accurate One-Stage Approach to Visual Grounding](https://arxiv.org/abs/1908.06354) | [code](https://github.com/zyang-ur/onestage_grounding) |  |
 
 
