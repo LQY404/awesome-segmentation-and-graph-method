@@ -201,7 +201,20 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 | [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408) | [code](https://github.com/zrl4836/ACFNet) |  |
 | ICCV2019 | [YOLACT Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689) | [code](https://github.com/dbolya/yolact) |  |
 | ICCV2019 | [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/2006.09214) | [code](tinyurl.com/FCOSv1) |  |
-| ICCV2019 |  [Semantic Instance Segmentation via Deep Metric Learning](https://arxiv.org/abs/1703.10277) |  |  |
+| ICCV2019 |  [Semantic Instance Segmentation via Deep Metric Learning](https://arxiv.org/abs/1703.10277) | None | enlighten |
+| ECCV2022 | [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://arxiv.org/abs/2112.08275) | [code](https://github.com/wjf5203/SeqFormer) |  |
+| ECCV2022 | [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895) | [code](https://github.com/echoanran/On-Mitigating-Hard-Clusters) |  |
+| ECCV2022 | [CenterFormer: Center-based Transformer for 3D Object Detection(https://arxiv.org/abs/2209.05588) | [code](https://github.com/TuSimple/centerformer) |  |
+| ECCV2022 | [ObjectBox: From Centers to Boxes for Anchor-Free Object Detection](https://arxiv.org/abs/2207.06985) | [code](https://github.com/MohsenZand/ObjectBox) |  |
+| ECCV2022 | [Learning Topological Interactions for Multi-Class Medical Image Segmentation](https://arxiv.org/abs/2207.09654) | [code](https://github.com/TopoXLab/TopoInteraction) |  |
+| ECCV2022 | [CAR: Class-aware Regularizations for Semantic Segmentation](https://arxiv.org/abs/2203.07160) | [code](https://github.com/edwardyehuang/CAR) |  |
+| ECCV2022 | [Active Pointly-Supervised Instance Segmentation](https://arxiv.org/abs/2207.11493) | None |  |
+| ECCV2022 | [DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation(https://arxiv.org/abs/2207.09988) | [code](https://github.com/dvlab-research/DecoupleNet) |  |
+| ECCV2022 | [Video Mask Transfiner for High-Quality Video Instance Segmentation](https://arxiv.org/abs/2207.14012) | [code](http://vis.xyz/pub/vmt) |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+
 
 ------------
 
@@ -238,9 +251,13 @@ This is a repository of the segmentation method and graph method. In the segment
 | WACV2020 | [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200) | [code](https://github.com/shikorab/DSG) | enlighten |
 | WACV2020 | [Multi-Level Representation Learning for Deep Subspace Clustering](https://arxiv.org/abs/2001.08533) | None |  |
 | ICCV2019 | [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://arxiv.org/abs/1908.07325) | [code](https://github.com/HCPLab-SYSU/SSGRL) |  |
-| ICCV2019 |  |  |  |
-| ICCV2019 |  |  |  |
-
+| ECCV2022 | [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895) | [code](https://github.com/echoanran/On-Mitigating-Hard-Clusters) |  |
+| ECCV2022 | [Generative Subgraph Contrast for Self-Supervised Graph Representation Learning](https://arxiv.org/abs/2207.11996) | [code](https://github.com/yh-han/GSC.git) | enlightened |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
 
 
 ------------
@@ -263,6 +280,14 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 | [Learning to Assemble Neural Module Tree Networks for Visual Grounding](https://arxiv.org/abs/1812.03299) | None |  |
 | ICCV2019 | [A Fast and Accurate One-Stage Approach to Visual Grounding](https://arxiv.org/abs/1908.06354) | [code](https://github.com/zyang-ur/onestage_grounding) |  |
 | ICCV2019 | [See-Through-Text Grouping for Referring Image Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_See-Through-Text_Grouping_for_Referring_Image_Segmentation_ICCV_2019_paper.pdf) | None |  |
+| ECCV2022 | [UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling](https://arxiv.org/abs/2111.12085) | [code](https://github.com/microsoft/UniTAB) |  |
+| ECCV2022 | [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325) | [code](https://github.com/qumengxue/siri-vg.git) |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
+
+
 
 
 
