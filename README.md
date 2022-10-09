@@ -86,7 +86,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2021 | [Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Kundu_Generalize_Then_Adapt_Source-Free_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.pdf) | [code](https://sites.google.com/view/sfdaseg) |  |
 | ICCV2021 | [Region-Aware Contrastive Learning for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Region-Aware_Contrastive_Learning_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | None |  |
 | ICCV2021 | [Graph Constrained Data Representation Learning for Human Motion Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Dimiccoli_Graph_Constrained_Data_Representation_Learning_for_Human_Motion_Segmentation_ICCV_2021_paper.pdf) | [code](https://github.com/mdimiccoli/GCRL-for-HMS/) | enlightened |
-|  | [Motion Segmentation and Tracking using Normalized Cuts ](https://ieeexplore.ieee.org/document/710861) | None | enlightened |
+| ICCV2021 | [Motion Segmentation and Tracking using Normalized Cuts ](https://ieeexplore.ieee.org/document/710861) | None | enlightened |
 | ICCV2015 | [Temporal Subspace Clustering for Human Motion Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410863) | None |  |
 | ICCV2021 | [Region-aware Contrastive Learning for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Region-Aware_Contrastive_Learning_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | None | enlightened |
 | ICCV2021 | [GP-S3Net: Graph-Based Panoptic Sparse Semantic Segmentation Network](https://openaccess.thecvf.com/content/ICCV2021/papers/Razani_GP-S3Net_Graph-Based_Panoptic_Sparse_Semantic_Segmentation_Network_ICCV_2021_paper.pdf) | None | enlightened |
@@ -136,7 +136,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2021 | [Zero-Shot Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Zero-Shot_Instance_Segmentation_CVPR_2021_paper.pdf) | None | new task |
 | CVPR2021 | [Learning To Count Everything](https://openaccess.thecvf.com/content/CVPR2021/papers/Ranjan_Learning_To_Count_Everything_CVPR_2021_paper.pdf) | [code](https://github.com/cvlab-stonybrook/LearningToCountEverything) |  |
 | CVPR2021 | [Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Toward_Joint_Thing-and-Stuff_Mining_for_Weakly_Supervised_Panoptic_Segmentation_CVPR_2021_paper.pdf) | None |  |
-| CVPR2021 | [Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Gong_Cluster_Split_Fuse_and_Update_Meta-Learning_for_Open_Compound_Domain_CVPR_2021_paper.pdf) |  |  |
+| CVPR2021 | [Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Gong_Cluster_Split_Fuse_and_Update_Meta-Learning_for_Open_Compound_Domain_CVPR_2021_paper.pdf) | None |  |
 | CVPR2021 | [Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spatial_Feature_Calibration_and_Temporal_Fusion_for_Effective_One-Stage_Video_CVPR_2021_paper.pdf) | [code](https://github.com/MinghanLi/STMask) |  |
 | CVPR2021 | [Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Panoptic-PolarNet_Proposal-Free_LiDAR_Point_Cloud_Panoptic_Segmentation_CVPR_2021_paper.pdf) | [code](https://github.com/edwardzhou130/Panoptic-PolarNet) |  |
 | CVPR2021 | [Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Ghiasi_Simple_Copy-Paste_Is_a_Strong_Data_Augmentation_Method_for_Instance_CVPR_2021_paper.pdf) | [code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/copy_paste) | data-argu |
@@ -174,13 +174,13 @@ This is a repository of the segmentation method and graph method. In the segment
 | CVPR2020 | [Real-Time Panoptic Segmentation from Dense Detections](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Real-Time_Panoptic_Segmentation_From_Dense_Detections_CVPR_2020_paper.pdf) | None |  |
 | CVPR2020 | [Affinity Graph Supervision for Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Affinity_Graph_Supervision_for_Visual_Recognition_CVPR_2020_paper.pdf) | None |  |
 | CVPR2020 | [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Spatial_Pyramid_Based_Graph_Reasoning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | None |  |
-| CVPR2020 | [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Bidirectional_Graph_Reasoning_Network_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) |  |  |
+| CVPR2020 | [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Bidirectional_Graph_Reasoning_Network_for_Panoptic_Segmentation_CVPR_2020_paper.pdf) | None |  |
 | ECCV2022 | [OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers](https://arxiv.org/pdf/2207.02255.pdf) | [code](https://github.com/PJLallen/OSFormer) |  |
 | ECCV2022 | [PseudoClick: Interactive Image Segmentation with Click Imitation](https://arxiv.org/pdf/2207.05282.pdf) | None | enlightened |
-| ECCV2022 | [Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/pdf/2207.08455.pdf) |  | enlightened |
+| ECCV2022 | [Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/pdf/2207.08455.pdf) | None | enlightened |
 | ICLR2022 | [LABEL-EFFICIENT SEMANTIC SEGMENTATION WITH DIFFUSION MODELS](https://arxiv.org/pdf/2112.03126.pdf) | [code](https://github.com/yandex-research/ddpm-segmentation) | diffusion model |
 | arxiv | [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/pdf/2206.09012.pdf) | [code](https://github.com/AlexGraikos/diffusion_priors) |  |
-| WACV2020 | [Distributed Iterative Gating Networks for Semantic Segmentation](https://arxiv.org/abs/1909.12996) |  |  |
+| WACV2020 | [Distributed Iterative Gating Networks for Semantic Segmentation](https://arxiv.org/abs/1909.12996) | None |  |
 | WACV2020 | [Multi Receptive Field Network for Semantic Segmentation](https://arxiv.org/abs/2011.08577) | None |  |
 | WACV2020 | [MaskPlus: Improving Mask Generation for Instance Segmentation](https://arxiv.org/abs/1907.06713) | None |  |
 | WACV2020 | [Efficient Video Semantic Segmentation with Labels Propagation and Refinement](https://arxiv.org/abs/1912.11844) | None |  |
@@ -194,7 +194,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 | [Feature Weighting and Boosting for Few-Shot Segmentation](https://arxiv.org/abs/1909.13140) | None |  |
 | ICCV2019 | [Explicit Shape Encoding for Real-Time Instance Segmentation](https://arxiv.org/abs/1908.04067) | [code](https://github.com/WenqiangX/ese_seg) |  |
 | ICCV2019 | [IMP: Instance Mask Projection for High Accuracy Semantic Segmentation of Things](https://arxiv.org/abs/1906.06597) | None |  |
-| ICCV2019 | [Video Instance Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Video_Instance_Segmentation_ICCV_2019_paper.pdf) |  |  |
+| ICCV2019 | [Video Instance Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Video_Instance_Segmentation_ICCV_2019_paper.pdf) | None |  |
 | ICCV2019 | [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740) | None |  |
 | ICCV2019 | [Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/1911.01370) | None |  |
 | ICCV2019 | [Universal Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1811.10323) | None |  |
