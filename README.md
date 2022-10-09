@@ -204,12 +204,12 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 |  [Semantic Instance Segmentation via Deep Metric Learning](https://arxiv.org/abs/1703.10277) | None | enlighten |
 | ECCV2022 | [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://arxiv.org/abs/2112.08275) | [code](https://github.com/wjf5203/SeqFormer) |  |
 | ECCV2022 | [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895) | [code](https://github.com/echoanran/On-Mitigating-Hard-Clusters) |  |
-| ECCV2022 | [CenterFormer: Center-based Transformer for 3D Object Detection(https://arxiv.org/abs/2209.05588) | [code](https://github.com/TuSimple/centerformer) |  |
+| ECCV2022 | [CenterFormer: Center-based Transformer for 3D Object Detection](https://arxiv.org/abs/2209.05588) | [code](https://github.com/TuSimple/centerformer) |  |
 | ECCV2022 | [ObjectBox: From Centers to Boxes for Anchor-Free Object Detection](https://arxiv.org/abs/2207.06985) | [code](https://github.com/MohsenZand/ObjectBox) |  |
 | ECCV2022 | [Learning Topological Interactions for Multi-Class Medical Image Segmentation](https://arxiv.org/abs/2207.09654) | [code](https://github.com/TopoXLab/TopoInteraction) |  |
 | ECCV2022 | [CAR: Class-aware Regularizations for Semantic Segmentation](https://arxiv.org/abs/2203.07160) | [code](https://github.com/edwardyehuang/CAR) |  |
 | ECCV2022 | [Active Pointly-Supervised Instance Segmentation](https://arxiv.org/abs/2207.11493) | None |  |
-| ECCV2022 | [DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation(https://arxiv.org/abs/2207.09988) | [code](https://github.com/dvlab-research/DecoupleNet) |  |
+| ECCV2022 | [DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2207.09988) | [code](https://github.com/dvlab-research/DecoupleNet) |  |
 | ECCV2022 | [Video Mask Transfiner for High-Quality Video Instance Segmentation](https://arxiv.org/abs/2207.14012) | [code](http://vis.xyz/pub/vmt) |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
