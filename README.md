@@ -216,6 +216,11 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | 2D Amodal Instance Segmentation Guided by 3D Shape Prior | None | updating |
 | ECCV2022 | Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation | None | updating |
 | ECCV2022 | [CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation](https://arxiv.org/abs/2203.11709) | [code](https://github.com/wangf3014/CP2) | enlightened |
+| ECCV2022 | Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment | None |  |
+| ECCV2022 | [Multi-scale and Cross-scale Contrastive Learning for Semantic Segmentation](https://arxiv.org/abs/2203.13409) | [code](https://github.com/RViMLab/MS_CS_ContrSeg) | enlightened |
+| ECCV2022 | [Learning Implicit Feature Alignment Function for Semantic Segmentation](https://arxiv.org/abs/2206.08655) | [code](https://github.com/hzhupku/IFA) |  |
+| ECCV2022 | [Open-world Semantic Segmentation via Contrasting and Clustering Vision-language Embedding](https://arxiv.org/abs/2207.08455) | None |  |
+| ECCV2022 | [RBC: Rectifying the Biased Context in Continual Semantic Segmentation](https://arxiv.org/abs/2203.08404) | None |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
@@ -287,7 +292,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2019 | [See-Through-Text Grouping for Referring Image Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_See-Through-Text_Grouping_for_Referring_Image_Segmentation_ICCV_2019_paper.pdf) | None |  |
 | ECCV2022 | [UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling](https://arxiv.org/abs/2111.12085) | [code](https://github.com/microsoft/UniTAB) |  |
 | ECCV2022 | [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325) | [code](https://github.com/qumengxue/siri-vg.git) |  |
-| ECCV2022 |  |  |  |
+| ECCV2022 | [Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds](https://arxiv.org/abs/2112.08879) | [code](https://butd-detr.github.io) |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
