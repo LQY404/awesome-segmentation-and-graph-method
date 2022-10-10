@@ -211,6 +211,11 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [Active Pointly-Supervised Instance Segmentation](https://arxiv.org/abs/2207.11493) | None |  |
 | ECCV2022 | [DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2207.09988) | [code](https://github.com/dvlab-research/DecoupleNet) |  |
 | ECCV2022 | [Video Mask Transfiner for High-Quality Video Instance Segmentation](https://arxiv.org/abs/2207.14012) | [code](http://vis.xyz/pub/vmt) |  |
+| ECCV2022 | [Box-supervised Instance Segmentation with Level Set Evolution](https://arxiv.org/abs/2207.09055) | [code](https://github.com/LiWentomng/boxlevelset) |  |
+| ECCV2022 | [Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation](https://arxiv.org/abs/2207.10436) | [code](https://github.com/GuoleiSun/VSS-MRCFA) |  |
+| ECCV2022 | 2D Amodal Instance Segmentation Guided by 3D Shape Prior | None | updating |
+| ECCV2022 | Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation | None | updating |
+| ECCV2022 | [CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation](https://arxiv.org/abs/2203.11709) | [code](https://github.com/wangf3014/CP2) | enlightened |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
