@@ -221,6 +221,10 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [Learning Implicit Feature Alignment Function for Semantic Segmentation](https://arxiv.org/abs/2206.08655) | [code](https://github.com/hzhupku/IFA) |  |
 | ECCV2022 | [Open-world Semantic Segmentation via Contrasting and Clustering Vision-language Embedding](https://arxiv.org/abs/2207.08455) | None |  |
 | ECCV2022 | [RBC: Rectifying the Biased Context in Continual Semantic Segmentation](https://arxiv.org/abs/2203.08404) | None |  |
+| ECCV2022 | [Panoptic-PartFormer: Learning a Unified model for Panoptic Part Segmentation](https://arxiv.org/abs/2204.04655) | [code](https://github.com/lxtGH/Panoptic-PartFormer) |  |
+| ECCV2022 | [Language-Grounded Indoor 3D Semantic Segmentation in the Wild](https://arxiv.org/abs/2204.07761) | [code](https://rozdavid.github.io/scannet200) | loss enlightened |
+| ECCV2022 |  |  |  |
+| ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
