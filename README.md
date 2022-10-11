@@ -223,8 +223,8 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [RBC: Rectifying the Biased Context in Continual Semantic Segmentation](https://arxiv.org/abs/2203.08404) | None |  |
 | ECCV2022 | [Panoptic-PartFormer: Learning a Unified model for Panoptic Part Segmentation](https://arxiv.org/abs/2204.04655) | [code](https://github.com/lxtGH/Panoptic-PartFormer) |  |
 | ECCV2022 | [Language-Grounded Indoor 3D Semantic Segmentation in the Wild](https://arxiv.org/abs/2204.07761) | [code](https://rozdavid.github.io/scannet200) | loss enlightened |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
+| ECCV2022 | [Learning with Free Object Segments for Long-Tailed Instance Segmentation](https://arxiv.org/abs/2202.11124) |  |  |
+| ECCV2022 | [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](https://arxiv.org/abs/2112.09747) | [code](https://github.com/tensorflow/models/tree/master/official/projects/uvit) |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
