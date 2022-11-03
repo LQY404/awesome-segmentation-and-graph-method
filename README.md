@@ -225,9 +225,11 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [Language-Grounded Indoor 3D Semantic Segmentation in the Wild](https://arxiv.org/abs/2204.07761) | [code](https://rozdavid.github.io/scannet200) | loss enlightened |
 | ECCV2022 | [Learning with Free Object Segments for Long-Tailed Instance Segmentation](https://arxiv.org/abs/2202.11124) |  |  |
 | ECCV2022 | [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](https://arxiv.org/abs/2112.09747) | [code](https://github.com/tensorflow/models/tree/master/official/projects/uvit) |  |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
+| ICLR2022 | [Label-Efficient Semantic Segmentation with Diffusion Models](https://openreview.net/pdf?id=SlxSY2UZQT) | [code](https://github.com/yandex-research/ddpm-segmentation) | diffusion for seg |
+| ICLR2022 |  |  |  |
+| ICLR2022 |  |  |  |
+| ICLR2022 |  |  |  |
+
 
 
 ------------
@@ -262,17 +264,14 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2018 | [Universal Sketch Perceptual Grouping](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.pdf) | [code](https://github.com/KeLi-SketchX/Universal-sketch-perceptual-grouping) | enlightened |
 | WACV2020 | [MaskPlus: Improving Mask Generation for Instance Segmentation](https://openaccess.thecvf.com/content_WACV_2020/papers/Xu_MaskPlus_Improving_Mask_Generation_for_Instance_Segmentation_WACV_2020_paper.pdf) | None |  |
 | WACV2020 | [GAR: Graph Assisted Reasoning for Object Detection](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_GAR_Graph_Assisted_Reasoning_for_Object_Detection_WACV_2020_paper.pdf) | None |  |
-| WACV2020 | [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200) | [code](https://github.com/shikorab/DSG) | enlighten |
+| WACV2020 | [Differentiable Scene Graphs](https://arxiv.org/abs/1902.10200) | [code](https://github.com/shikorab/DSG) | enlightened |
 | WACV2020 | [Multi-Level Representation Learning for Deep Subspace Clustering](https://arxiv.org/abs/2001.08533) | None |  |
 | ICCV2019 | [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://arxiv.org/abs/1908.07325) | [code](https://github.com/HCPLab-SYSU/SSGRL) |  |
 | ECCV2022 | [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895) | [code](https://github.com/echoanran/On-Mitigating-Hard-Clusters) |  |
 | ECCV2022 | [Generative Subgraph Contrast for Self-Supervised Graph Representation Learning](https://arxiv.org/abs/2207.11996) | [code](https://github.com/yh-han/GSC.git) | enlightened |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
-| ECCV2022 |  |  |  |
-
+| ICLR2022 | [Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space](https://openreview.net/pdf?id=QJWVP4CTmW4) | [code](https://github.com/damo-cv/Ada-NETS) | enlightened |
+| ICLR2022 |  |  |  |
+| ICLR2022 |  |  |  |
 
 ------------
 
