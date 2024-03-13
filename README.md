@@ -12,11 +12,6 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
-| ICCV2023  | []()  | [code]() |  |
-| ICCV2023  | []()  | [code]() |  |
-| ICCV2023  | []()  | [code]() |  |
-
-| ICCV2023  | []()  | [code]() |  |
 | ICCV2023  | [Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)  | [code](https://opsnet-page.github.io/) |  |
 | ICCV2023  | [MasQCLIP for Open-Vocabulary Universal Image Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_MasQCLIP_for_Open-Vocabulary_Universal_Image_Segmentation_ICCV_2023_paper.pdf)  | [code](https://masqclip.github.io/) |  |
 | ICCV2023  | [WaterMask: Instance Segmentation for Underwater Imagery](https://openaccess.thecvf.com/content/ICCV2023/papers/Lian_WaterMask_Instance_Segmentation_for_Underwater_Imagery_ICCV_2023_paper.pdf)  | [code](https://github.com/LiamLian0727/WaterMask) |  |
