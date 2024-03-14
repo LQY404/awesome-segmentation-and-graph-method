@@ -12,6 +12,19 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ICCV2023  | [Segment Anything](https://arxiv.org/abs/2304.02643) | [code](https://segment-anything.com) |  |
+| ICCV2023  | [SimpleClick: Interactive Image Segmentation with Simple Vision Transformers](https://arxiv.org/abs/2210.11006) | [code](https://github.com/uncbiag/SimpleClick) |  |
+| ICCV2023  | [Texture Learning Domain Randomization for Domain Generalized Segmentation](https://arxiv.org/abs/2303.11546) | [code](https://github.com/ssssshwan/TLDR) |  |
+| ICCV2023  | [Unsupervised Learning of Object-Centric Embeddings for Cell Instance Segmentation in Microscopy Images](https://arxiv.org/abs/2310.08501) | [code](https://github.com/funkelab/cellulus) | √√√ |
+| ICCV2023  | [XNet: Wavelet-Based Low and High Frequency Fusion Networks for Fully- and Semi-Supervised Semantic Segmentation of Biomedical Images](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_XNet_Wavelet-Based_Low_and_High_Frequency_Fusion_Networks_for_Fully-_ICCV_2023_paper.pdf) | [code](https://github.com/Yanfeng-Zhou/XNet) | √√√ |
+| ICCV2023  | [CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation](https://arxiv.org/abs/2310.06368) | [code](https://github.com/zkzhang98/CoinSeg) |  |
+| ICCV2023  | [Open-Vocabulary Semantic Segmentation with Decoupled One-Pass Network](https://arxiv.org/abs/2304.01198) | [code](https://github.com/CongHan0808/DeOP.git) |  |
+| ICCV2023  | [BoxSnake: Polygonal Instance Segmentation with Box Supervision](https://arxiv.org/abs/2303.11630) | [code](https://github.com/Yangr116/BoxSnake) |  |
+| ICCV2023  | [UniverSeg: Universal Medical Image Segmentation](https://arxiv.org/abs/2304.06131) | [code](https://universeg.csail.mit.edu) | √√√ |
+| ICCV2023  | [Enhancing Modality-Agnostic Representations via Meta-learning for Brain Tumor Segmentation](https://arxiv.org/abs/2302.04308) | None | √√√ |
+| ICCV2023  | [CauSSL: Causality-inspired Semi-supervised Learning for Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Miao_CauSSL_Causality-inspired_Semi-supervised_Learning_for_Medical_Image_Segmentation_ICCV_2023_paper.pdf) | [code](https://github.com/JuzhengMiao/CauSSL) |  |
+| ICCV2023  | [MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2304.09913) | [code](https://github.com/shjo-april/MARS) |  |
+| ICCV2023  | [Learning Neural Eigenfunctions for Unsupervised Semantic Segmentation](https://arxiv.org/abs/2304.02841) | [code](https://github.com/thudzj/NeuralEigenfunctionSegmentor) |  | 
 | ICCV2023  | [Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2307.09755)  | [code](https://github.com/WangChangqi98/CSS) |  |
 | ICCV2023  | [Global Knowledge Calibration for Fast Open-Vocabulary Segmentation](https://arxiv.org/abs/2303.09181)  | [code](https://github.com/yongliu20/GKC) |  |
 | ICCV2023  | [Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)  | [code](https://opsnet-page.github.io/) |  |
@@ -312,7 +325,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling](https://arxiv.org/abs/2111.12085) | [code](https://github.com/microsoft/UniTAB) |  |
 | ECCV2022 | [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325) | [code](https://github.com/qumengxue/siri-vg.git) |  |
 | ECCV2022 | [Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds](https://arxiv.org/abs/2112.08879) | [code](https://butd-detr.github.io) |  |
-| ECCV2022 |  |  |  |
+| ICCV2023 | [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](https://arxiv.org/abs/2307.11545) | [code](https://github.com/kkakkkka/ETRIS) |  |
 | ECCV2022 |  |  |  |
 | ECCV2022 |  |  |  |
 
