@@ -12,6 +12,13 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ICCV2023  | [Learning Cross-Representation Affinity Consistency for Sparsely Supervised Biomedical Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Learning_Cross-Representation_Affinity_Consistency_for_Sparsely_Supervised_Biomedical_Instance_Segmentation_ICCV_2023_paper.pdf) | [code](https://github.com/liuxy1103/CRAC) |  |
+| ICCV2023  | [MSI: Maximize Support-Set Information for Few-Shot Segmentation](https://arxiv.org/abs/2212.04673) | [code](https://github.com/moonsh/MSI-Maximize-Support-Set-Information) | √√ |
+| ICCV2023  | [TopoSeg: Topology-Aware Nuclear Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/He_TopoSeg_Topology-Aware_Nuclear_Instance_Segmentation_ICCV_2023_paper.pdf) | [code](ttps://github.com/hhlisme/toposeg) | √√√ |
+| ICCV2023  | [MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory](https://arxiv.org/abs/2311.01556) | [code](https://waabi.ai/research/memoryseg) |  |
+| ICCV2023  | [Informative Data Mining for One-shot Cross-Domain Semantic Segmentation](https://arxiv.org/abs/2309.14241) | [code](https://github.com/yxiwang/IDM) |  |
+| ICCV2023  | [Segmenting Known Objects and Unseen Unknowns without Prior Knowledge](https://arxiv.org/abs/2209.05407) | [code](https://holisticseg.github.io) |  |
+| ICCV2023  | [RbA: Segmenting Unknown Regions Rejected by All](https://arxiv.org/abs/2211.14293) | [code](https://kuis-ai.github.io/RbA) | √ |
 | ICCV2023  | [Segment Anything](https://arxiv.org/abs/2304.02643) | [code](https://segment-anything.com) |  |
 | ICCV2023  | [SimpleClick: Interactive Image Segmentation with Simple Vision Transformers](https://arxiv.org/abs/2210.11006) | [code](https://github.com/uncbiag/SimpleClick) |  |
 | ICCV2023  | [Texture Learning Domain Randomization for Domain Generalized Segmentation](https://arxiv.org/abs/2303.11546) | [code](https://github.com/ssssshwan/TLDR) |  |
