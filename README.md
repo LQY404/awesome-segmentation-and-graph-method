@@ -12,6 +12,14 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| WACV2024 | [AnyStar: Domain randomized universal star-convex 3D instance segmentation](https://arxiv.org/abs/2307.07044) | [code](https://github.com/neel-dey/AnyStar) | √√√ |
+| WACV2024 | [Revisiting Token Pruning for Object Detection and Instance Segmentation](https://arxiv.org/abs/2306.07050) | [code](https://github.com/uzh-rpg/svit/) |   |
+| WACV2024 | [BPKD: Boundary Privileged Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2306.08075) | [code](https://github.com/AkideLiu/BPKD) |   |
+| WACV2024 | [Guided Distillation for Semi-Supervised Instance Segmentation](https://arxiv.org/abs/2308.02668) | [code](https://github.com/facebookresearch/GuidedDistillation) |   |
+| ICCV2023 | [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](https://arxiv.org/abs/2308.06531) | [code](https://github.com/aim-uofa/SegPrompt) |   |
+| ICCV2023 | [SegRCDB: Semantic Segmentation via Formula-Driven Supervised Learning](https://arxiv.org/abs/2309.17083) | [code](https://github.com/dahlian00/SegRCDB) |   |
+| ICCV2023 | [Exploring Transformers for Open-world Instance Segmentation](https://arxiv.org/abs/2308.04206) | [code]() |   |
+| ICCV2023 | [Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Hsieh_Class-incremental_Continual_Learning_for_Instance_Segmentation_with_Image-level_Weak_Supervision_ICCV_2023_paper.pdf) | [code](https://github.com/AI-Application-and-Integration-Lab/CL4WSIS) |  |
 | ICCV2023  | [Treating Pseudo-labels Generation as Image Matting for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Treating_Pseudo-labels_Generation_as_Image_Matting_for_Weakly_Supervised_Semantic_ICCV_2023_paper.pdf)  | None |  |
 | ICCV2023  | [Probabilistic Modeling of Inter- and Intra-observer Variability in Medical Image Segmentation](https://arxiv.org/abs/2307.11397)  | [code](https://github.com/arneschmidt/pionono_segmentation) | √√√ |
 | ICCV2023  | [Learning Cross-Representation Affinity Consistency for Sparsely Supervised Biomedical Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Learning_Cross-Representation_Affinity_Consistency_for_Sparsely_Supervised_Biomedical_Instance_Segmentation_ICCV_2023_paper.pdf) | [code](https://github.com/liuxy1103/CRAC) | √√ |
@@ -40,7 +48,7 @@ This is a repository of the segmentation method and graph method. In the segment
 | ICCV2023  | [MasQCLIP for Open-Vocabulary Universal Image Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_MasQCLIP_for_Open-Vocabulary_Universal_Image_Segmentation_ICCV_2023_paper.pdf)  | [code](https://masqclip.github.io/) |  |
 | ICCV2023  | [WaterMask: Instance Segmentation for Underwater Imagery](https://openaccess.thecvf.com/content/ICCV2023/papers/Lian_WaterMask_Instance_Segmentation_for_Underwater_Imagery_ICCV_2023_paper.pdf)  | [code](https://github.com/LiamLian0727/WaterMask) |  |
 | ICCV2023  | [CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://arxiv.org/abs/2301.00785)  | [code](https://github.com/ljwztc/CLIP-Driven-Universal-Model) | √√√ |
-| ICCV2023  | [SegGPT: Towards Segmenting Everything In Context](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SegGPT_Towards_Segmenting_Everything_in_Context_ICCV_2023_paper.pdf)  | [code](ttps://github.com/baaivision/Painter) |  |
+| ICCV2023  | [SegGPT: Towards Segmenting Everything In Context](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SegGPT_Towards_Segmenting_Everything_in_Context_ICCV_2023_paper.pdf)  | [code](https://github.com/baaivision/Painter) |  |
 | ICCV2023  | [Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning](https://arxiv.org/abs/2307.14786)  | [code](https://github.com/jwh97nn/DeepDPS) |  |
 | ICCV2023  | [DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models](https://arxiv.org/abs/2303.11681)  | [code](https://github.com/weijiawu/DiffuMask) | √ |
 | ICCV2023  | [Scratch Each Other’s Back: Incomplete Multi-modal Brain Tumor Segmentation Via Category Aware Group Self-Support Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf)  | [code](https://github.com/qysgithubopen/GSS) | √ |
