@@ -12,6 +12,7 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv | [Segment Anything without Supervision](http://arxiv.org/abs/2406.20081) | [code](https://github.com/frank-xwang/UnSAM) | √√√ |
 | CVPR024 | [Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion](https://arxiv.org/abs/2308.12469) | [code](https://sites.google.com/view/diffseg/home) | √ |
 | CVPR024 | [CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661) | [code](https://torrvision.com/clip_as_rnn/) | √√ |
 | CVPR024 | [PEM: Prototype-based Efficient MaskFormer for Image Segmentation](https://arxiv.org/abs/2402.19422) | [code](https://github.com/NiccoloCavagnero/PEM) |  |
