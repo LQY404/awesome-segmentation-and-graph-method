@@ -12,6 +12,7 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ECCV2024 | [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/abs/2401.02955) | [code](https://github.com/HarborYuan/ovsam) | √√√ |
 | arxiv | [Segment Anything without Supervision](http://arxiv.org/abs/2406.20081) | [code](https://github.com/frank-xwang/UnSAM) | √√√ |
 | CVPR024 | [Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion](https://arxiv.org/abs/2308.12469) | [code](https://sites.google.com/view/diffseg/home) | √ |
 | CVPR024 | [CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661) | [code](https://torrvision.com/clip_as_rnn/) | √√ |
