@@ -12,6 +12,8 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ECCV2024 | [Semantic-aware SAM for Point-Prompted Instance Segmentation](https://arxiv.org/abs/2312.15895) | [code](https://github.com/zhaoyangwei123/SAPNet) | √√√ |
+| ECCV2022 | [Point-to-Box Network for Accurate Object Detection via Single Point Supervision](https://arxiv.org/abs/2207.06827) | [code](https://github.com/ucas-vg/P2BNet) | √√√ |
 | ECCV2024 | [Semantic-SAM: Segment and Recognize Anything at Any Granularity](https://arxiv.org/pdf/2307.04767.pdf) | [code](https://github.com/UX-Decoder/Semantic-SAM) | √√√ |
 | ECCV2024 | [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/abs/2401.02955) | [code](https://github.com/HarborYuan/ovsam) | √√√ |
 | arxiv | [Segment Anything without Supervision](http://arxiv.org/abs/2406.20081) | [code](https://github.com/frank-xwang/UnSAM) | √√√ |
