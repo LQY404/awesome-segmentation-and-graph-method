@@ -12,6 +12,7 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv | [Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation](https://arxiv.org/abs/2405.17859) | [code](https://github.com/YoungSean/NIDS-Net?tab=readme-ov-file) | √√√ |
 | ECCV2024 | [Semantic-aware SAM for Point-Prompted Instance Segmentation](https://arxiv.org/abs/2312.15895) | [code](https://github.com/zhaoyangwei123/SAPNet) | √√√ |
 | ECCV2022 | [Point-to-Box Network for Accurate Object Detection via Single Point Supervision](https://arxiv.org/abs/2207.06827) | [code](https://github.com/ucas-vg/P2BNet) | √√√ |
 | ECCV2024 | [Semantic-SAM: Segment and Recognize Anything at Any Granularity](https://arxiv.org/pdf/2307.04767.pdf) | [code](https://github.com/UX-Decoder/Semantic-SAM) | √√√ |
