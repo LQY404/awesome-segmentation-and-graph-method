@@ -12,6 +12,10 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2023 | [Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2305.00673) | [code](https://github.com/DeepMed-Lab-ECNU/BCP?tab=readme-ov-file) | √√√ |
+| ECCV2024 | [Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes](https://arxiv.org/abs/2407.11464) | [code](https://github.com/FelixCaae/CrowdSAM) | √√√ |
+| CVPR2024 | [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/pdf/2407.12276) | [code](https://github.com/Zhang-Haojie/WeSAM) | √√√ |
+| ECCV2024 | [VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation](https://arxiv.org/pdf/2407.12276) | [code](https://github.com/xiaozhen228/VCP-CLIP?tab=readme-ov-file) | √√√ |
 | arxiv2024 | [Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation](https://arxiv.org/abs/2405.17859) | [code](https://github.com/YoungSean/NIDS-Net?tab=readme-ov-file) | √√√ |
 | ECCV2024 | [Semantic-aware SAM for Point-Prompted Instance Segmentation](https://arxiv.org/abs/2312.15895) | [code](https://github.com/zhaoyangwei123/SAPNet) | √√√ |
 | ECCV2022 | [Point-to-Box Network for Accurate Object Detection via Single Point Supervision](https://arxiv.org/abs/2207.06827) | [code](https://github.com/ucas-vg/P2BNet) | √√√ |
