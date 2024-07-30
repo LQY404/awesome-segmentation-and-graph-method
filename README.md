@@ -12,6 +12,7 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| meta | [SAM 2: Segment Anything in Images and Videos](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/453323338_287900751050452_6064535069828837026_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=TnvI-AaGawoQ7kNvgFJPdfC&_nc_ht=scontent-sjc3-1.xx&oh=00_AYAlCBmHCcIEnDo-YzzCScg8NZPgTQlwjE9FVlniLRw5JQ&oe=66AE2179) | [code](https://github.com/facebookresearch/segment-anything-2) | √√√ |
 | CVPR2023 | [Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2305.00673) | [code](https://github.com/DeepMed-Lab-ECNU/BCP?tab=readme-ov-file) | √√√ |
 | ECCV2024 | [Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes](https://arxiv.org/abs/2407.11464) | [code](https://github.com/FelixCaae/CrowdSAM) | √√√ |
 | CVPR2024 | [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/pdf/2407.12276) | [code](https://github.com/Zhang-Haojie/WeSAM) | √√√ |
