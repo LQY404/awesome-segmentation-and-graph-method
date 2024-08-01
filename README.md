@@ -409,15 +409,14 @@ This is a repository of the segmentation method and graph method. In the segment
 ## Referring Segmentation
 |  |  |  |  |
 | :------------: | :------------: | :------------: | :------------: |
-| CVPR024 | []() | [code]() |  |
-| CVPR024 | []() | [code]() |  |
-| CVPR024 | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | [code](https://github.com/heshuting555/DsHmp) |  |
-| CVPR024 | LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation | None |  |
-| CVPR024 | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | None |  |
-| CVPR024 | [LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation](https://arxiv.org/abs/2306.08736) | [code](https://github.com/LinfengYuan1997/LoSh) |  |
-| CVPR024 | Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation | [code](https://github.com/Rubics-Xuan/MRES) |  |
-| CVPR024 | Prompt-Driven Referring Image Segmentation with Instance Contrasting | None |  |
-| CVPR024 | [Curriculum Point Prompting for Weakly-Supervised Referring Image Segmentation](https://arxiv.org/abs/2404.11998) | [code]() |  |
+| ICLR2024 | [BARLERIA: AN EFFICIENT TUNING FRAMEWORK FOR REFERRING IMAGE SEGMENTATION](https://openreview.net/pdf?id=wHLDHRkmEu) | [code](https://github.com/NastrondAd/BarLeRIa) |  |
+| CVPR2024 | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | [code](https://github.com/heshuting555/DsHmp) |  |
+| CVPR2024 | LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation | None |  |
+| CVPR2024 | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | None |  |
+| CVPR2024 | [LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation](https://arxiv.org/abs/2306.08736) | [code](https://github.com/LinfengYuan1997/LoSh) |  |
+| CVPR2024 | Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation | [code](https://github.com/Rubics-Xuan/MRES) |  |
+| CVPR2024 | Prompt-Driven Referring Image Segmentation with Instance Contrasting | None |  |
+| CVPR2024 | [Curriculum Point Prompting for Weakly-Supervised Referring Image Segmentation](https://arxiv.org/abs/2404.11998) | [code]() |  |
 | ICCV2021 | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://arxiv.org/abs/2108.05565) | [code](https://github.com/henghuiding/Vision-Language-Transformer) |  |
 | CVPR2021 | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://arxiv.org/abs/2105.01839) | [code](https://github.com/fengguang94/CEFNet) |  |
 | CVPR2021 | [CRIS: CLIP-Driven Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CRIS_CLIP-Driven_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | [code](https://github.com/DerrickWang005/CRIS.pytorch) |  |
