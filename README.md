@@ -23,79 +23,79 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2024 | [Semantic-SAM: Segment and Recognize Anything at Any Granularity](https://arxiv.org/pdf/2307.04767.pdf) | [code](https://github.com/UX-Decoder/Semantic-SAM) | √√√ |
 | ECCV2024 | [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/abs/2401.02955) | [code](https://github.com/HarborYuan/ovsam) | √√√ |
 | arxiv2024 | [Segment Anything without Supervision](http://arxiv.org/abs/2406.20081) | [code](https://github.com/frank-xwang/UnSAM) | √√√ |
-| CVPR024 | [Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion](https://arxiv.org/abs/2308.12469) | [code](https://sites.google.com/view/diffseg/home) | √ |
-| CVPR024 | [CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661) | [code](https://torrvision.com/clip_as_rnn/) | √√ |
-| CVPR024 | [PEM: Prototype-based Efficient MaskFormer for Image Segmentation](https://arxiv.org/abs/2402.19422) | [code](https://github.com/NiccoloCavagnero/PEM) |  |
-| CVPR024 | Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation | [code](https://github.com/Jittor/JSeg) |  |
-| CVPR024 | [Clustering Propagation for Universal Medical Image Segmentation](https://arxiv.org/abs/2403.16646) | [code](https://github.com/dyh127/S2VNet) | √ |
-| CVPR024 | [Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2402.18467) | [code](https://github.com/zwyang6/SeCo.git) |  |
-| CVPR024 | [Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation](https://arxiv.org/abs/2311.18363) | [code](https://github.com/Chen-Ziyang/VPTTA) |  |
-| CVPR024 | [Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2405.00378) | [code](ttps://github.com/chyupc/ABD) |  |
-| CVPR024 | [Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation](https://arxiv.org/abs/2306.02416) | [code](https://github.com/yhygao/universal-medical-image-segmentationA) | √ |
-| CVPR024 | From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation] | [code](https://github.com/sangrockEG/S2C) |  |
-| CVPR024 | [Frequency-Adaptive Dilated Convolution for Semantic Segmentation](https://arxiv.org/abs/2403.05369) | [code](https://github.com/ying-fu/FADC) |  |
-| CVPR024 | [Tyche: Stochastic In-Context Learning for Medical Image Segmentation](https://arxiv.org/abs/2401.13650) | [code](https://tyche.csail.mit.edu/) | √ |
-| CVPR024 | [EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation](https://arxiv.org/abs/2405.06880) | [code](https://github.com/SLDGroup/EMCAD) | √ |
-| CVPR024 | [ASAM: Boosting Segment Anything Model with Adversarial Tuning](https://arxiv.org/abs/2405.00256) | [code](https://asam2024.github.io/) |  |
-| CVPR024 | [Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.04265) | [code](https://github.com/w1oves/Rein.git) |  |
-| CVPR024 | [Open-Vocabulary Semantic Segmentation with Image Embedding Balancing](https://arxiv.org/abs/2406.09829) | [code](https://github.com/slonetime/EBSeg) |  |
-| CVPR024 | [Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance](https://arxiv.org/abs/2312.10671) | [code](https://open3dis.github.io/) |  |
-| CVPR024 | [Contextrast: Contextual Contrastive Learning for Semantic Segmentation](https://arxiv.org/abs/2404.10633) | None |  |
-| CVPR024 | [Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2404.00262) | None |  |
-| CVPR024 | Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation | [code](https://github.com/why19991/InSeg) | √√√ |
-| CVPR024 | [ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/abs/2406.09936) | [code](https://tue-mps.github.io/ALGM) |  |
-| CVPR024 | [CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2303.11797) | None |  |
-| CVPR024 | [Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation](https://arxiv.org/abs/2403.06462) | [code](https://github.com/Gavinwxy/DDFP) |  |
-| CVPR024 | [ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting](https://arxiv.org/abs/2312.04964) | [code](https://github.com/Yankai96/ZePT) | √√√ |
-| CVPR024 | [Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation](https://arxiv.org/abs/2405.08458) | [code](https://github.com/vangjin/PI-CLIP) | √√√ |
-| CVPR024 | [Unsupervised Universal Image Segmentation](https://arxiv.org/abs/2312.17243) | [code](https://github.com/u2seg/U2Seg) | √√√ |
-| CVPR024 | [Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models](https://arxiv.org/abs/2403.14291) | [code](https://github.com/vpulab/ovam) |  |
-| CVPR024 | Edge-Aware 3D Instance Segmentation Network with Intelligent Semantic Prior | [code](https://kuai-lab.github.io/ease2024) |  |
-| CVPR024 | Unlocking the Potential of Pre-trained Vision Transformers for Few-Shot Semantic Segmentation through Relationship Descriptors | [code](https://github.com/ZiqinZhou66/FewSegwithRD.git) |  |
-| CVPR024 | Mudslide: A Universal Nuclear Instance Segmentation Method | None | √ |
-| CVPR024 | Class Tokens Infusion for Weakly Supervised Semantic Segmentation | [code](https://github.com/yoon307/CTI) |  |
-| CVPR024 | [Unsupervised Semantic Segmentation Through Depth-Guided Feature Correlation and Sampling](https://arxiv.org/abs/2309.12378) | [code]() | √√√ |
-| CVPR024 | [ToNNO: Tomographic Reconstruction of a Neural Network’s Output for Weakly Supervised Segmentation of 3D Medical Images](https://arxiv.org/abs/2404.13103) | None |  |
-| CVPR024 | [Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation](https://arxiv.org/abs/2404.10322) | [code](https://github.com/Matt-Su/DR-Adapter) |  |
-| CVPR024 | Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation | [code](https://github.com/dogehhh/ReCLIP) |  |
-| CVPR024 | [EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation](https://arxiv.org/abs/2403.01482) | [code](https://micv-yonsei.github.io/eagle2024/) |  |
-| CVPR024 | [MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2401.07745) | [code](https://pku-epic.github.io/MaskClustering) |  |
-| CVPR024 | Open-Vocabulary 3D Semantic Segmentation with Foundation Models | None |  |
-| CVPR024 | [AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2403.01818) | [code](https://github.com/xmed-lab/AllSpark) | √√√ |
-| CVPR024 | [Collaborating Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.09788) | [code](https://github.com/yasserben/CLOUDS) | √√√ |
-| CVPR024 | [SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2311.15537) | [code](https://github.com/xb534/SED) |  |
-| CVPR024 | [Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2406.11189) | [code](https://github.com/zbf1991/WeCLIP) | √√√ |
-| CVPR024 | PSDPM: Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation | [code](https://github.com/xinqiaozhao/PSDPM) |  |
-| CVPR024 | [Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation](https://arxiv.org/abs/2402.17614) | [code](https://github.com/Vision-Kek/ABCDFSS) |  |
-| CVPR024 | [USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation](https://arxiv.org/abs/2406.05271) | None |  |
-| CVPR024 | [Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2404.08951) | [code](https://github.com/MQinghe/MiDSS) |  |
-| CVPR024 | [Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2403.07630) | [code](https://github.com/Barrett-python/CPAL) |  |
-| CVPR024 | [One-Prompt to Segment All Medical Images](https://arxiv.org/abs/2305.10300) | [code](https://github.com/KidsWithTokens/one-prompt) | √√√ |
-| CVPR024 | [DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2403.11184) | [code](https://github.com/Wu0409/DuPL) |  |
-| CVPR024 | RankMatch: Exploring the Better Consistency Regularization for Semi-supervised Semantic Segmentation |None |  |
-| CVPR024 | [Open-World Semantic Segmentation Including Class Similarity](https://arxiv.org/abs/2403.07532) | [code](https://github.com/PRBonn/ContMAV) |  |
-| CVPR024 | [Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincar´e Ball](https://arxiv.org/abs/2404.03778) | [code](https://github.com/tum-vision/hierahyp) |  |
-| CVPR024 | [Diversified and Personalized Multi-rater Medical Image Segmentation](https://arxiv.org/abs/2403.13417) | [code](https://github.com/ycwu1997/D-Persona) | √ |
-| CVPR024 | [MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling](https://arxiv.org/abs/2303.09373) | [code](https://github.com/XuzheZ/MAPSeg/) |  |
-| CVPR024 | [Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation](https://arxiv.org/abs/2404.04231) | [code](https://github.com/072jiajia/image-text-co-decomposition) |  |
-| CVPR024 | [AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning](https://arxiv.org/abs/2406.00480) | [code](https://github.com/Duojun-Huang/AlignSAM-CVPR2024) |  |
-| CVPR024 | [UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes](https://arxiv.org/abs/2303.14541) | [code](https://rozdavid.github.io/unscene3d) |  |
-| CVPR024 | [Task-aligned Part-aware Panoptic Segmentation through Joint Object-Part Representations](https://arxiv.org/abs/2406.10114) | [code](https://tue-mps.github.io/tapps/) |  |
-| CVPR024 | [Semantic-aware SAM for Point-Prompted Instance Segmentation](https://arxiv.org/abs/2312.15895) | [code](https://github.com/zhaoyangwei123/SAPNet) |  |
-| CVPR024 | [RobustSAM: Segment Anything Robustly on Degraded Images](https://arxiv.org/abs/2406.09627) | [code](https://robustsam.github.io/) | √ |  
-| CVPR024 | [SAI3D: Segment Any Instance in 3D Scenes](https://arxiv.org/abs/2312.11557) | [code](https://yd-yin.github.io/SAI3D) |  |  
-| CVPR024 | [CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2306.04300) | [code](https://github.com/BBBBchan/CorrMatch) |  |  
-| CVPR024 | [Open-Set Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2405.19899) | [code](https://github.com/KHU-AGI/BUS) | √ |  
-| CVPR024 | [BSNet: Box-Supervised Simulation-assisted Mean Teacher for 3D Instance](https://arxiv.org/abs/2403.15019) | [code](https://github.com/peoplelu/BSNet) |  |
-| CVPR024 | PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness | [code](https://github.com/jjjsyyy/PH-Net) | √√ |
-| CVPR024 | [Extreme Point Supervised Instance Segmentation](https://arxiv.org/abs/2405.20729) | [code](https://github.com/xingyizhou/ExtremeNet) |  |
-| CVPR024 | Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Medical Image Segmentation | [code](https://github.com/Coradlut/Bi-JROS) |  |
-| CVPR024 | [Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Multi-Scale Aggregation and Anthropic Prior Knowledge](https://arxiv.org/abs/2404.01013) | [code](github.io/TeethSEG/) | √√ |
-| CVPR024 | [EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/abs/2312.00863) | [code](https://yformer.github.io/efficient-sam/) | √ |
-| CVPR024 | [Open-Vocabulary Segmentation with Semantic-Assisted Calibration](https://arxiv.org/abs/2312.04089) | [code](https://github.com/yongliu20/SCAN) |  |
-| CVPR024 | [MFP: Making Full Use of Probability Maps for Interactive Image Segmentation](https://arxiv.org/abs/2404.18448) | [code](https://github.com/cwlee00/MFP) |  |
-| CVPR024 | [GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation](https://arxiv.org/abs/2403.16370) | [code](https://vlislab22.github.io/GoodSAM/) |  |
-| CVPR024 | [Guided Slot Attention for Unsupervised Video Object Segmentation](https://arxiv.org/abs/2303.08314) | [code](https://github.com/Hydragon516/GSANet) |  |
+| CVPR2024 | [Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion](https://arxiv.org/abs/2308.12469) | [code](https://sites.google.com/view/diffseg/home) | √ |
+| CVPR2024 | [CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661) | [code](https://torrvision.com/clip_as_rnn/) | √√ |
+| CVPR2024 | [PEM: Prototype-based Efficient MaskFormer for Image Segmentation](https://arxiv.org/abs/2402.19422) | [code](https://github.com/NiccoloCavagnero/PEM) |  |
+| CVPR2024 | Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation | [code](https://github.com/Jittor/JSeg) |  |
+| CVPR2024 | [Clustering Propagation for Universal Medical Image Segmentation](https://arxiv.org/abs/2403.16646) | [code](https://github.com/dyh127/S2VNet) | √ |
+| CVPR2024 | [Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2402.18467) | [code](https://github.com/zwyang6/SeCo.git) |  |
+| CVPR2024 | [Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation](https://arxiv.org/abs/2311.18363) | [code](https://github.com/Chen-Ziyang/VPTTA) |  |
+| CVPR2024 | [Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2405.00378) | [code](ttps://github.com/chyupc/ABD) |  |
+| CVPR2024 | [Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation](https://arxiv.org/abs/2306.02416) | [code](https://github.com/yhygao/universal-medical-image-segmentationA) | √ |
+| CVPR2024 | From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation] | [code](https://github.com/sangrockEG/S2C) |  |
+| CVPR2024 | [Frequency-Adaptive Dilated Convolution for Semantic Segmentation](https://arxiv.org/abs/2403.05369) | [code](https://github.com/ying-fu/FADC) |  |
+| CVPR2024 | [Tyche: Stochastic In-Context Learning for Medical Image Segmentation](https://arxiv.org/abs/2401.13650) | [code](https://tyche.csail.mit.edu/) | √ |
+| CVPR2024 | [EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation](https://arxiv.org/abs/2405.06880) | [code](https://github.com/SLDGroup/EMCAD) | √ |
+| CVPR2024 | [ASAM: Boosting Segment Anything Model with Adversarial Tuning](https://arxiv.org/abs/2405.00256) | [code](https://asam2024.github.io/) |  |
+| CVPR2024 | [Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.04265) | [code](https://github.com/w1oves/Rein.git) |  |
+| CVPR2024 | [Open-Vocabulary Semantic Segmentation with Image Embedding Balancing](https://arxiv.org/abs/2406.09829) | [code](https://github.com/slonetime/EBSeg) |  |
+| CVPR2024 | [Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance](https://arxiv.org/abs/2312.10671) | [code](https://open3dis.github.io/) |  |
+| CVPR2024 | [Contextrast: Contextual Contrastive Learning for Semantic Segmentation](https://arxiv.org/abs/2404.10633) | None |  |
+| CVPR2024 | [Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2404.00262) | None |  |
+| CVPR2024 | Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation | [code](https://github.com/why19991/InSeg) | √√√ |
+| CVPR2024 | [ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/abs/2406.09936) | [code](https://tue-mps.github.io/ALGM) |  |
+| CVPR2024 | [CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2303.11797) | None |  |
+| CVPR2024 | [Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation](https://arxiv.org/abs/2403.06462) | [code](https://github.com/Gavinwxy/DDFP) |  |
+| CVPR2024 | [ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting](https://arxiv.org/abs/2312.04964) | [code](https://github.com/Yankai96/ZePT) | √√√ |
+| CVPR2024 | [Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation](https://arxiv.org/abs/2405.08458) | [code](https://github.com/vangjin/PI-CLIP) | √√√ |
+| CVPR2024 | [Unsupervised Universal Image Segmentation](https://arxiv.org/abs/2312.17243) | [code](https://github.com/u2seg/U2Seg) | √√√ |
+| CVPR2024 | [Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models](https://arxiv.org/abs/2403.14291) | [code](https://github.com/vpulab/ovam) |  |
+| CVPR2024 | Edge-Aware 3D Instance Segmentation Network with Intelligent Semantic Prior | [code](https://kuai-lab.github.io/ease2024) |  |
+| CVPR2024 | Unlocking the Potential of Pre-trained Vision Transformers for Few-Shot Semantic Segmentation through Relationship Descriptors | [code](https://github.com/ZiqinZhou66/FewSegwithRD.git) |  |
+| CVPR2024 | Mudslide: A Universal Nuclear Instance Segmentation Method | None | √ |
+| CVPR2024 | Class Tokens Infusion for Weakly Supervised Semantic Segmentation | [code](https://github.com/yoon307/CTI) |  |
+| CVPR2024 | [Unsupervised Semantic Segmentation Through Depth-Guided Feature Correlation and Sampling](https://arxiv.org/abs/2309.12378) | [code]() | √√√ |
+| CVPR2024 | [ToNNO: Tomographic Reconstruction of a Neural Network’s Output for Weakly Supervised Segmentation of 3D Medical Images](https://arxiv.org/abs/2404.13103) | None |  |
+| CVPR2024 | [Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation](https://arxiv.org/abs/2404.10322) | [code](https://github.com/Matt-Su/DR-Adapter) |  |
+| CVPR2024 | Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation | [code](https://github.com/dogehhh/ReCLIP) |  |
+| CVPR2024 | [EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation](https://arxiv.org/abs/2403.01482) | [code](https://micv-yonsei.github.io/eagle2024/) |  |
+| CVPR2024 | [MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2401.07745) | [code](https://pku-epic.github.io/MaskClustering) |  |
+| CVPR2024 | Open-Vocabulary 3D Semantic Segmentation with Foundation Models | None |  |
+| CVPR2024 | [AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2403.01818) | [code](https://github.com/xmed-lab/AllSpark) | √√√ |
+| CVPR2024 | [Collaborating Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.09788) | [code](https://github.com/yasserben/CLOUDS) | √√√ |
+| CVPR2024 | [SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2311.15537) | [code](https://github.com/xb534/SED) |  |
+| CVPR2024 | [Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2406.11189) | [code](https://github.com/zbf1991/WeCLIP) | √√√ |
+| CVPR2024 | PSDPM: Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation | [code](https://github.com/xinqiaozhao/PSDPM) |  |
+| CVPR2024 | [Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation](https://arxiv.org/abs/2402.17614) | [code](https://github.com/Vision-Kek/ABCDFSS) |  |
+| CVPR2024 | [USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation](https://arxiv.org/abs/2406.05271) | None |  |
+| CVPR2024 | [Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2404.08951) | [code](https://github.com/MQinghe/MiDSS) |  |
+| CVPR2024 | [Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2403.07630) | [code](https://github.com/Barrett-python/CPAL) |  |
+| CVPR2024 | [One-Prompt to Segment All Medical Images](https://arxiv.org/abs/2305.10300) | [code](https://github.com/KidsWithTokens/one-prompt) | √√√ |
+| CVPR2024 | [DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2403.11184) | [code](https://github.com/Wu0409/DuPL) |  |
+| CVPR2024 | RankMatch: Exploring the Better Consistency Regularization for Semi-supervised Semantic Segmentation |None |  |
+| CVPR2024 | [Open-World Semantic Segmentation Including Class Similarity](https://arxiv.org/abs/2403.07532) | [code](https://github.com/PRBonn/ContMAV) |  |
+| CVPR2024 | [Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincar´e Ball](https://arxiv.org/abs/2404.03778) | [code](https://github.com/tum-vision/hierahyp) |  |
+| CVPR2024 | [Diversified and Personalized Multi-rater Medical Image Segmentation](https://arxiv.org/abs/2403.13417) | [code](https://github.com/ycwu1997/D-Persona) | √ |
+| CVPR2024 | [MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling](https://arxiv.org/abs/2303.09373) | [code](https://github.com/XuzheZ/MAPSeg/) |  |
+| CVPR2024 | [Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation](https://arxiv.org/abs/2404.04231) | [code](https://github.com/072jiajia/image-text-co-decomposition) |  |
+| CVPR2024 | [AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning](https://arxiv.org/abs/2406.00480) | [code](https://github.com/Duojun-Huang/AlignSAM-CVPR2024) |  |
+| CVPR2024 | [UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes](https://arxiv.org/abs/2303.14541) | [code](https://rozdavid.github.io/unscene3d) |  |
+| CVPR2024 | [Task-aligned Part-aware Panoptic Segmentation through Joint Object-Part Representations](https://arxiv.org/abs/2406.10114) | [code](https://tue-mps.github.io/tapps/) |  |
+| CVPR2024 | [Semantic-aware SAM for Point-Prompted Instance Segmentation](https://arxiv.org/abs/2312.15895) | [code](https://github.com/zhaoyangwei123/SAPNet) |  |
+| CVPR2024 | [RobustSAM: Segment Anything Robustly on Degraded Images](https://arxiv.org/abs/2406.09627) | [code](https://robustsam.github.io/) | √ |  
+| CVPR2024 | [SAI3D: Segment Any Instance in 3D Scenes](https://arxiv.org/abs/2312.11557) | [code](https://yd-yin.github.io/SAI3D) |  |  
+| CVPR2024 | [CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2306.04300) | [code](https://github.com/BBBBchan/CorrMatch) |  |  
+| CVPR2024 | [Open-Set Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2405.19899) | [code](https://github.com/KHU-AGI/BUS) | √ |  
+| CVPR2024 | [BSNet: Box-Supervised Simulation-assisted Mean Teacher for 3D Instance](https://arxiv.org/abs/2403.15019) | [code](https://github.com/peoplelu/BSNet) |  |
+| CVPR2024 | PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness | [code](https://github.com/jjjsyyy/PH-Net) | √√ |
+| CVPR2024 | [Extreme Point Supervised Instance Segmentation](https://arxiv.org/abs/2405.20729) | [code](https://github.com/xingyizhou/ExtremeNet) |  |
+| CVPR2024 | Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Medical Image Segmentation | [code](https://github.com/Coradlut/Bi-JROS) |  |
+| CVPR2024 | [Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Multi-Scale Aggregation and Anthropic Prior Knowledge](https://arxiv.org/abs/2404.01013) | [code](github.io/TeethSEG/) | √√ |
+| CVPR2024 | [EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/abs/2312.00863) | [code](https://yformer.github.io/efficient-sam/) | √ |
+| CVPR2024 | [Open-Vocabulary Segmentation with Semantic-Assisted Calibration](https://arxiv.org/abs/2312.04089) | [code](https://github.com/yongliu20/SCAN) |  |
+| CVPR2024 | [MFP: Making Full Use of Probability Maps for Interactive Image Segmentation](https://arxiv.org/abs/2404.18448) | [code](https://github.com/cwlee00/MFP) |  |
+| CVPR2024 | [GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation](https://arxiv.org/abs/2403.16370) | [code](https://vlislab22.github.io/GoodSAM/) |  |
+| CVPR2024 | [Guided Slot Attention for Unsupervised Video Object Segmentation](https://arxiv.org/abs/2303.08314) | [code](https://github.com/Hydragon516/GSANet) |  |
 | WACV2024 | [AnyStar: Domain randomized universal star-convex 3D instance segmentation](https://arxiv.org/abs/2307.07044) | [code](https://github.com/neel-dey/AnyStar) | √√√ |
 | WACV2024 | [Revisiting Token Pruning for Object Detection and Instance Segmentation](https://arxiv.org/abs/2306.07050) | [code](https://github.com/uzh-rpg/svit/) |   |
 | WACV2024 | [BPKD: Boundary Privileged Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2306.08075) | [code](https://github.com/AkideLiu/BPKD) |   |
@@ -356,9 +356,6 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [Learning with Free Object Segments for Long-Tailed Instance Segmentation](https://arxiv.org/abs/2202.11124) |  |  |
 | ECCV2022 | [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](https://arxiv.org/abs/2112.09747) | [code](https://github.com/tensorflow/models/tree/master/official/projects/uvit) |  |
 | ICLR2022 | [Label-Efficient Semantic Segmentation with Diffusion Models](https://openreview.net/pdf?id=SlxSY2UZQT) | [code](https://github.com/yandex-research/ddpm-segmentation) | diffusion for seg |
-| ICLR2022 |  |  |  |
-| ICLR2022 |  |  |  |
-| ICLR2022 |  |  |  |
 
 
 
@@ -400,8 +397,6 @@ This is a repository of the segmentation method and graph method. In the segment
 | ECCV2022 | [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895) | [code](https://github.com/echoanran/On-Mitigating-Hard-Clusters) |  |
 | ECCV2022 | [Generative Subgraph Contrast for Self-Supervised Graph Representation Learning](https://arxiv.org/abs/2207.11996) | [code](https://github.com/yh-han/GSC.git) | enlightened |
 | ICLR2022 | [Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space](https://openreview.net/pdf?id=QJWVP4CTmW4) | [code](https://github.com/damo-cv/Ada-NETS) | enlightened |
-| ICLR2022 |  |  |  |
-| ICLR2022 |  |  |  |
 
 ------------
 
