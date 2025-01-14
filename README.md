@@ -12,6 +12,8 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| AAAI2025 | [MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2412.11076) | [code](https://github.com/zwyang6/MoRe) |  |
+| AAAI2025 | [FOCUS: Towards Universal Foreground Segmentation](https://arxiv.org/pdf/2501.05238) | [code](https://github.com/geshang777/FOCUS) | foreground seg., √√√ |
 | arxiv24.01 | [Bilateral Reference for High-Resolution Dichotomous Image Segmentation](https://arxiv.org/pdf/2401.03407) | [code](https://github.com/zhengpeng7/birefnet) | √√√√ |
 | TMI2024 | [BoNuS: Boundary Mining for Nuclei Segmentation With Partial Point Labels](https://doi.org/10.1109/TMI.2024.3355068) | [code](https://github.com/hust-linyi/bonus) | √√√√ |
 | ECCV2024 | [SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance](https://arxiv.org/abs/2311.16241) | [code](https://github.com/google-research/semivl?tab=readme-ov-file) |  |
@@ -407,6 +409,7 @@ This is a repository of the segmentation method and graph method. In the segment
 ## Referring Segmentation
 |  |  |  |  |
 | :------------: | :------------: | :------------: | :------------: |
+| AAAI2025 | [ChatterBox: Multi-round Multimodal Referring and Grounding](https://arxiv.org/abs/2401.13307) | [code](https://github.com/sunsmarterjie/ChatterBox) |  |
 | ICLR2024 | [BARLERIA: AN EFFICIENT TUNING FRAMEWORK FOR REFERRING IMAGE SEGMENTATION](https://openreview.net/pdf?id=wHLDHRkmEu) | [code](https://github.com/NastrondAd/BarLeRIa) |  |
 | CVPR2024 | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | [code](https://github.com/heshuting555/DsHmp) |  |
 | CVPR2024 | LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation | None |  |
