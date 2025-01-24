@@ -409,6 +409,7 @@ This is a repository of the segmentation method and graph method. In the segment
 ## Referring Segmentation
 |  |  |  |  |
 | :------------: | :------------: | :------------: | :------------: |
+| ECCV2024 | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | [code](https://github.com/yxchng/mask-grounding) | √√√ |
 | AAAI2025 | [ChatterBox: Multi-round Multimodal Referring and Grounding](https://arxiv.org/abs/2401.13307) | [code](https://github.com/sunsmarterjie/ChatterBox) |  |
 | ICLR2024 | [BARLERIA: AN EFFICIENT TUNING FRAMEWORK FOR REFERRING IMAGE SEGMENTATION](https://openreview.net/pdf?id=wHLDHRkmEu) | [code](https://github.com/NastrondAd/BarLeRIa) |  |
 | CVPR2024 | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | [code](https://github.com/heshuting555/DsHmp) |  |
