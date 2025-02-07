@@ -409,6 +409,8 @@ This is a repository of the segmentation method and graph method. In the segment
 ## Referring Segmentation
 |  |  |  |  |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2024 | [Generative Region-Language Pretraining for Open-Ended Object Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Generative_Region-Language_Pretraining_for_Open-Ended_Object_Detection_CVPR_2024_paper.pdf) | [code](https://github.com/FoundationVision/GenerateU) | √√√, like R-Tex2 |
+| CVPR2024 | [PerceptionGPT: Effectively Fusing Visual Perception into LLM](https://openaccess.thecvf.com/content/CVPR2024/papers/Pi_PerceptionGPT_Effectively_Fusing_Visual_Perception_into_LLM_CVPR_2024_paper.pdf) | None | √√√，powerful than LISA, notable |
 | ECCV2024 | [An Efficient and Effective Transformer Decoder-Based Framework for Multi-task Visual Grounding](https://link.springer.com/content/pdf/10.1007/978-3-031-72995-9_8.pdf) | [code](https://github.com/chenwei746/EEVG) | √√√ |
 | ECCV2024 | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | [code](https://github.com/yxchng/mask-grounding) | √√√ |
 | AAAI2025 | [ChatterBox: Multi-round Multimodal Referring and Grounding](https://arxiv.org/abs/2401.13307) | [code](https://github.com/sunsmarterjie/ChatterBox) |  |
