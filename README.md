@@ -1,5 +1,6 @@
 This is a repository of the segmentation method and graph method. In the segmentation part, the instance, semantic, panoptic and referring segmentation are included. In the graph part, the representation learning, clustering and so on methods are included. We will update continue...
 
+**util 2025.03.05: include CVPR, ECCV, ICCV, AAAI, ACMMM, WACV, and arxiv. (2019-2025)**
 
 ------------
 
@@ -12,6 +13,10 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2025 | FSHNet: Fully Sparse Hybrid Network for 3D Object Detection | [code](https://github.com/Say2L/FSHNet) |  |
+| CVPR2025 | One-for-More: Continual Diffusion Model for Anomaly Detection | [code](https://github.com/FuNz-0/One-for-More) |  |
+| CVPR2025 | UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection | [code](https://github.com/pangdaTangtt/UniNet) |  |
+| CVPR2025 | Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation | [code](https://github.com/zwyang6/ExCEL) |  |
 | AAAI2025 | [MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2412.11076) | [code](https://github.com/zwyang6/MoRe) |  |
 | AAAI2025 | [FOCUS: Towards Universal Foreground Segmentation](https://arxiv.org/pdf/2501.05238) | [code](https://github.com/geshang777/FOCUS) | foreground seg., √√√ |
 | arxiv24.01 | [Bilateral Reference for High-Resolution Dichotomous Image Segmentation](https://arxiv.org/pdf/2401.03407) | [code](https://github.com/zhengpeng7/birefnet) | √√√√ |
@@ -409,6 +414,9 @@ This is a repository of the segmentation method and graph method. In the segment
 ## Referring Segmentation
 |  |  |  |  |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2025 | [VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos](https://arxiv.org/abs/2411.04923) | [code](https://github.com/mbzuai-oryx/VideoGLaMM) |  |
+| CVPR2025 | [FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression](https://arxiv.org/abs/2412.04317) | [code](https://github.com/codefanw/FlashSloth) |  |
+| CVPR2025 | [F-LMM: Grounding Frozen Large Multimodal Models](https://arxiv.org/abs/2406.05821) | [code](https://github.com/wusize/F-LMM) |  |
 | CVPR2024 | [Generative Region-Language Pretraining for Open-Ended Object Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Generative_Region-Language_Pretraining_for_Open-Ended_Object_Detection_CVPR_2024_paper.pdf) | [code](https://github.com/FoundationVision/GenerateU) | √√√, like R-Tex2 |
 | CVPR2024 | [PerceptionGPT: Effectively Fusing Visual Perception into LLM](https://openaccess.thecvf.com/content/CVPR2024/papers/Pi_PerceptionGPT_Effectively_Fusing_Visual_Perception_into_LLM_CVPR_2024_paper.pdf) | None | √√√，powerful than LISA, notable |
 | ECCV2024 | [An Efficient and Effective Transformer Decoder-Based Framework for Multi-task Visual Grounding](https://link.springer.com/content/pdf/10.1007/978-3-031-72995-9_8.pdf) | [code](https://github.com/chenwei746/EEVG) | √√√ |
