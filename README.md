@@ -13,6 +13,12 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2025 | Segment Any-Quality Images with Generative Latent Space Enhancement | [code](https://github.com/guangqian-guo/GleSAM) |  |
+| CVPR2025 | [LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777) | [code](https://github.com/vladan-stojnic/LPOSS) |  |
+| CVPR2025 | BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis | [code](https://github.com/weiguangzhao/BFANet) |  |
+| CVPR2025 | [Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2503.20826) | [code](https://github.com/zwyang6/ExCEL) | √√√ |
+| CVPR2025 | [SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories](https://arxiv.org/abs/2503.08625) | [code](https://github.com/aim-uofa/SegAgent) | √√√ |
+| CVPR2025 | Rethinking Query-based Transformer for Continual Image Segmentation | [code](https://github.com/SooLab/SimCIS) |  |
 | CVPR2025 | FSHNet: Fully Sparse Hybrid Network for 3D Object Detection | [code](https://github.com/Say2L/FSHNet) |  |
 | CVPR2025 | One-for-More: Continual Diffusion Model for Anomaly Detection | [code](https://github.com/FuNz-0/One-for-More) |  |
 | CVPR2025 | UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection | [code](https://github.com/pangdaTangtt/UniNet) |  |
@@ -414,6 +420,8 @@ This is a repository of the segmentation method and graph method. In the segment
 ## Referring Segmentation
 |  |  |  |  |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2025 | [VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos](https://arxiv.org/abs/2411.04923) | [code](https://github.com/mbzuai-oryx/VideoGLaMM) |  |
+| CVPR2025 | [ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding](https://arxiv.org/abs/2502.19247) | [code](https://github.com/pqh22/ProxyTransformation) |  |
 | CVPR2025 | [VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos](https://arxiv.org/abs/2411.04923) | [code](https://github.com/mbzuai-oryx/VideoGLaMM) |  |
 | CVPR2025 | [FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression](https://arxiv.org/abs/2412.04317) | [code](https://github.com/codefanw/FlashSloth) |  |
 | CVPR2025 | [F-LMM: Grounding Frozen Large Multimodal Models](https://arxiv.org/abs/2406.05821) | [code](https://github.com/wusize/F-LMM) |  |
