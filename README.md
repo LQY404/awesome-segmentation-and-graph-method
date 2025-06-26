@@ -13,6 +13,10 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ICML2025 | EFDTR: Learnable Elliptical Fourier Descriptor Transformer for Instance Segmentation | [code](https://github.com/chrisclear3/EFDTR) |  |
+| ICML2025 | Complex Wavelet Mutual Information Loss: A Multi-Scale Loss Function for Semantic Segmentation | [code](https://github.com/lurenhaothu/CWMI) | √√√ |
+| ICML2025 | Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic Segmentation | None |  |
+| ICML2025 | EFDTR: Learnable Elliptical Fourier Descriptor Transformer for Instance Segmentation | [code](https://github.com/chrisclear3/EFDTR) |  |
 | CVPR2025 | Segment Any-Quality Images with Generative Latent Space Enhancement | [code](https://github.com/guangqian-guo/GleSAM) |  |
 | CVPR2025 | [LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777) | [code](https://github.com/vladan-stojnic/LPOSS) |  |
 | CVPR2025 | BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis | [code](https://github.com/weiguangzhao/BFANet) |  |
