@@ -13,6 +13,9 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ICML2025 | Self-Disentanglement and Re-Composition for Cross-Domain Few-Shot Segmentation | None |  |
+| ICML2025 | LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation | None |  |
+| ICML2025 | Complex Wavelet Mutual Information Loss: A Multi-Scale Loss Function for Semantic Segmentation | None |  |
 | ICML2025 | EFDTR: Learnable Elliptical Fourier Descriptor Transformer for Instance Segmentation | [code](https://github.com/chrisclear3/EFDTR) |  |
 | ICML2025 | Complex Wavelet Mutual Information Loss: A Multi-Scale Loss Function for Semantic Segmentation | [code](https://github.com/lurenhaothu/CWMI) | √√√ |
 | ICML2025 | Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic Segmentation | None |  |
