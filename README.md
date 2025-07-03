@@ -13,6 +13,7 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ICML2025 | Balanced Learning for Domain Adaptive Semantic Segmentation | None |  |
 | ICML2025 | Self-Disentanglement and Re-Composition for Cross-Domain Few-Shot Segmentation | None |  |
 | ICML2025 | LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation | None |  |
 | ICML2025 | Complex Wavelet Mutual Information Loss: A Multi-Scale Loss Function for Semantic Segmentation | None |  |
