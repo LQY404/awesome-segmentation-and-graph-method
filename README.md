@@ -13,6 +13,25 @@ This is a repository of the segmentation method and graph method. In the segment
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ICCV2025 | [ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Xuan_ReME_A_Data-Centric_Framework_for_Training-Free_Open-Vocabulary_Segmentation_ICCV_2025_paper.pdf) |  |  |
+| ICCV2025 | [Images as Noisy Labels: Unleashing the Potential of the Diffusion Model for Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Images_as_Noisy_Labels_Unleashing_the_Potential_of_the_Diffusion_ICCV_2025_paper.pdf) |  |  |
+| ICCV2025 | [Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Probabilistic_Prototype_Calibration_of_Vision-language_Models_for_Generalized_Few-shot_Semantic_ICCV_2025_paper.pdf) |  |  |
+| ICCV2025 | [Dark-ISP: Enhancing RAW Image Processing for Low-Light Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Guo_Dark-ISP_Enhancing_RAW_Image_Processing_for_Low-Light_Object_Detection_ICCV_2025_paper.pdf) |  |  |
+| ICCV2025 | [Unsupervised Histopathological Image Semantic Segmentation with Overlapping Patches Consistency Constraint](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Unsupervised_Histopathological_Image_Semantic_Segmentation_with_Overlapping_Patches_Consistency_Constraint_ICCV_2025_paper.pdf) | None |  |
+| ICCV2025 | [Task-Specific Zero-shot Quantization-Aware Training for Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Task-Specific_Zero-shot_Quantization-Aware_Training_for_Object_Detection_ICCV_2025_paper.pdf) | None |  |
+| ICCV2025 | [CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_CLIPer_Hierarchically_Improving_Spatial_Representation_of_CLIP_for_Open-Vocabulary_Semantic_ICCV_2025_paper.pdf) | [code](https://github.com/linsun449/cliper.code) |  |
+| ICCV2025 | [MOBIUS: Big-to-Mobile Universal Instance Segmentation via Multi-modal Bottleneck Fusion and Calibrated Decoder Pruning](https://openaccess.thecvf.com/content/ICCV2025/papers/Segu_MOBIUS_Big-to-Mobile_Universal_Instance_Segmentation_via_Multi-modal_Bottleneck_Fusion_and_ICCV_2025_paper.pdf) | [code](https://github.com/google-research/mobius) | √√√ |
+| ICCV2025 | [FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Benigmim_FLOSS_Free_Lunch_in_Open-vocabulary_Semantic_Segmentation_ICCV_2025_paper.pdf) | [code](https://github.com/yasserben/FLOSS) |  |
+| ICCV2025 | [LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Liao_LLM-Assisted_Semantic_Guidance_for_Sparsely_Annotated_Remote_Sensing_Object_Detection_ICCV_2025_paper.pdf) | [code](https://github.com/wuxiuzhilianni/RSST) | √√√ |
+| ICCV2025 | [CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_CorrCLIP_Reconstructing_Patch_Correlations_in_CLIP_for_Open-Vocabulary_Semantic_Segmentation_ICCV_2025_paper.pdf) | [code](https://github.com/zdk258/CorrCLIP) | √ |
+| ICCV2025 | [Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Stronger_Steadier__Superior_Geometric_Consistency_in_Depth_VFM_Forges_ICCV_2025_paper.pdf) | [code](https://github.com/SY-Ch/DepthForge) |  |
+| ICCV2025 | [Similarity Memory Prior is All You Need for Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_Similarity_Memory_Prior_is_All_You_Need_for_Medical_Image_ICCV_2025_paper.pdf) | [code](https://github.com/vpsg-research/SimMPNet) |  |
+| ICCV2025 | [Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Plug-in_Feedback_Self-adaptive_Attention_in_CLIP_for_Training-free_Open-Vocabulary_Segmentation_ICCV_2025_paper.pdf) | [code](https://github.com/chi-chi-zx/FSA) |  |
+| ICCV2025 | [When Confidence Fails: Revisiting Pseudo-Label Selection in Semi-supervised Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_When_Confidence_Fails_Revisiting_Pseudo-Label_Selection_in_Semi-supervised_Semantic_Segmentation_ICCV_2025_paper.pdf) | [code](https://github.com/PanLiuCSU/CSL) |  |
+| ICCV2025 | [Sliced Wasserstein Bridge for Open-Vocabulary Video Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Sliced_Wasserstein_Bridge_for_Open-Vocabulary_Video_Instance_Segmentation_ICCV_2025_paper.pdf) | None |  |
+| ICCV2025 | [Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Test-time_Adaptation_for_Foundation_Medical_Segmentation_Model_Without_Parametric_Updates_ICCV_2025_paper.pdf) | None |  |
+| ICCV2025 | [DiffRefine: Diffusion-based Proposal Specific Point Cloud Densification for Cross-Domain Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_DiffRefine_Diffusion-based_Proposal_Specific_Point_Cloud_Densification_for_Cross-Domain_Object_ICCV_2025_paper.pdf) | [code](https://yunshin.github.io/DiffRefine/) |  |
+| ICCV2025 | [Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.pdf) | None |  |
 | ICML2025 | unMORE:Unsupervised Multi-Object Segmentation via Center-Boundary Reasoning | [code](https://github.com/vLAR-group/unMORE) | √√√ |
 | ICML2025 | Balanced Learning for Domain Adaptive Semantic Segmentation | None |  |
 | ICML2025 | Self-Disentanglement and Re-Composition for Cross-Domain Few-Shot Segmentation | None |  |
@@ -426,9 +445,11 @@ This is a repository of the segmentation method and graph method. In the segment
 ------------
 
 
-## Referring Segmentation
+## Referring Segmentation and Grounding
 |  |  |  |  |
 | :------------: | :------------: | :------------: | :------------: |
+| ICCV2025 | [Visual Textualization for Image Prompted Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_Visual_Textualization_for_Image_Prompted_Object_Detection_ICCV_2025_paper.pdf) | [code](https://github.com/WitGotFlg/VisTex-OVLM) |  |
+| ICCV2025 | [Referring to Any Person](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiang_Referring_to_Any_Person_ICCV_2025_paper.pdf) | [code](https://github.com/IDEA-Research/RexSeek) |  |
 | CVPR2025 | [VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos](https://arxiv.org/abs/2411.04923) | [code](https://github.com/mbzuai-oryx/VideoGLaMM) |  |
 | CVPR2025 | [ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding](https://arxiv.org/abs/2502.19247) | [code](https://github.com/pqh22/ProxyTransformation) |  |
 | CVPR2025 | [VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos](https://arxiv.org/abs/2411.04923) | [code](https://github.com/mbzuai-oryx/VideoGLaMM) |  |
