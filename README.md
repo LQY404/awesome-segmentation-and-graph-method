@@ -1,6 +1,7 @@
 This is a repository of the segmentation method and graph method. In the segmentation part, the instance, semantic, panoptic and referring segmentation are included. In the graph part, the representation learning, clustering and so on methods are included. We will update continue...
 
 **util 2025.03.05: include CVPR, ECCV, ICCV, AAAI, ACMMM, WACV, and arxiv. (2019-2025)**
+**20251031：update ICCV2025**
 
 ------------
 
